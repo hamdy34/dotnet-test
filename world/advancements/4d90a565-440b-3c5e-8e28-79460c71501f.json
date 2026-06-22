@@ -664,6 +664,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2026-06-21 19:19:30 +0000",
+      "sweet_berries": "2026-06-22 17:30:40 +0000",
       "wheat": "2026-06-21 19:20:10 +0000"
     },
     "done": false
@@ -674,9 +675,40 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_cod": "2026-06-22 17:58:38 +0000",
+      "sweet_berries": "2026-06-21 19:36:53 +0000"
+    },
+    "done": false
+  },
+  "brickfurnace:brick_furnace": {
+    "criteria": {
+      "has_brick": "2026-06-21 19:44:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/planter_rich_fd": {
+    "criteria": {
+      "has_item_minecraft_brick_1": "2026-06-21 19:44:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2026-06-21 19:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-06-21 19:50:58 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:pickup_coffee": {
+    "criteria": {
+      "coffee_beans": "2026-06-21 19:52:28 +0000"
     },
     "done": true
   },
@@ -686,33 +718,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/candle_holders/candle_holder_green": {
-    "criteria": {
-      "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipe/sconce": {
     "criteria": {
       "has_tag_c_nuggets_iron_2": "2026-06-21 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_black": {
-    "criteria": {
-      "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_cyan": {
-    "criteria": {
-      "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/hourglass": {
-    "criteria": {
-      "has_item_minecraft_glass_1": "2026-06-21 20:07:19 +0000"
     },
     "done": true
   },
@@ -728,6 +736,36 @@
     },
     "done": true
   },
+  "supplementaries:recipe/bubble_blower": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_2": "2026-06-21 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/slidy_block": {
+    "criteria": {
+      "has_tag_c_nuggets_iron_1": "2026-06-21 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_yellow": {
     "criteria": {
       "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
@@ -740,21 +778,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2026-06-21 21:06:20 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2026-06-21 20:47:00 +0000"
     },
     "done": true
   },
@@ -770,41 +796,11 @@
     },
     "done": true
   },
-  "brickfurnace:brick_furnace": {
-    "criteria": {
-      "has_brick": "2026-06-21 19:44:15 +0000"
-    },
-    "done": true
-  },
-  "ftbstuff:supercharged": {
-    "criteria": {
-      "0": "2026-06-21 22:22:37 +0000"
-    },
-    "done": true
-  },
-  "actuallyadditions:root": {
-    "criteria": {
-      "right_click": "2026-06-21 20:25:08 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2026-06-21 19:50:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:phantom": "2026-06-21 22:06:49 +0000"
-    },
-    "done": false
   },
   "supplementaries:recipe/candle_holders/candle_holder_blue": {
     "criteria": {
@@ -818,21 +814,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/integration/planter_rich_fd": {
-    "criteria": {
-      "has_item_minecraft_brick_1": "2026-06-21 19:44:15 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:phantom": "2026-06-21 22:06:49 +0000"
     },
     "done": true
   },
@@ -845,24 +829,6 @@
   "supplementaries:recipe/candle_holders/candle_holder_red": {
     "criteria": {
       "has_tag_c_ingots_iron_2": "2026-06-21 20:02:58 +0000"
-    },
-    "done": true
-  },
-  "actuallyadditions:pickup_coffee": {
-    "criteria": {
-      "coffee_beans": "2026-06-21 19:52:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "sweet_berries": "2026-06-21 19:36:53 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipe/bubble_blower": {
-    "criteria": {
-      "has_tag_c_nuggets_iron_2": "2026-06-21 20:01:25 +0000"
     },
     "done": true
   },
@@ -896,9 +862,141 @@
     },
     "done": true
   },
-  "supplementaries:recipe/slidy_block": {
+  "supplementaries:recipe/hourglass": {
     "criteria": {
-      "has_tag_c_nuggets_iron_1": "2026-06-21 20:01:25 +0000"
+      "has_item_minecraft_glass_1": "2026-06-21 20:07:19 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:root": {
+    "criteria": {
+      "right_click": "2026-06-21 20:25:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2026-06-21 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2026-06-21 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2026-06-21 22:06:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2026-06-21 22:06:49 +0000"
+    },
+    "done": true
+  },
+  "ftbstuff:supercharged": {
+    "criteria": {
+      "0": "2026-06-21 22:22:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bucket": {
+    "criteria": {
+      "has_item_minecraft_bucket_2": "2026-06-22 17:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-06-22 17:21:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap": {
+    "criteria": {
+      "has_item_minecraft_water_bucket_1": "2026-06-22 17:23:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candy": {
+    "criteria": {
+      "has_item_minecraft_honey_bottle_3": "2026-06-22 17:59:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bottle": {
+    "criteria": {
+      "has_item_minecraft_glass_bottle_2": "2026-06-22 18:00:00 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:template_battery": {
+    "criteria": {
+      "template_battery": "2026-06-22 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "integratedcrafting:root": {
+    "criteria": {
+      "criteria_0": "2026-06-22 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2026-06-22 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-06-22 18:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-06-22 18:23:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wrench": {
+    "criteria": {
+      "has_tag_c_ingots_copper_1": "2026-06-22 18:26:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cog_block": {
+    "criteria": {
+      "has_tag_c_ingots_copper_1": "2026-06-22 18:26:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2026-06-22 18:26:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fire_pit": {
+    "criteria": {
+      "has_tag_c_ingots_copper_2": "2026-06-22 18:26:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roasted_mutton_chops": "2026-06-22 18:53:32 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2026-06-22 18:53:32 +0000"
     },
     "done": true
   },
