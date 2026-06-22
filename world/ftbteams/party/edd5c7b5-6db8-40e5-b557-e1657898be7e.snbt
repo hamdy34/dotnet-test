@@ -1,0 +1,36 @@
+{
+	id: "edd5c7b5-6db8-40e5-b557-e1657898be7e"
+	type: "party"
+	owner: "4d90a565-440b-3c5e-8e28-79460c71501f"
+	ranks: {
+		4d90a565-440b-3c5e-8e28-79460c71501f: "owner"
+		e625bfcc-5326-317f-9b19-6ad2a50be2c9: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "ahmed349's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#97FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1782065455030L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"ahmed349\"],\"color\":\"yellow\"}" }
+		{ from: "4d90a565-440b-3c5e-8e28-79460c71501f", date: 1782065543392L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Beaddu\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1782065545816L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Beaddu\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

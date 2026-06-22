@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "e625bfcc5326317f9b196ad2a50be2c9"
+	name: "Beaddu#e625bfcc"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
