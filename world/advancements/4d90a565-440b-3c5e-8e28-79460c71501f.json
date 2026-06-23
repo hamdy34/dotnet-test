@@ -892,6 +892,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2026-06-23 12:10:09 +0000",
+      "minecraft:skeleton": "2026-06-23 12:16:26 +0000",
       "minecraft:piglin": "2026-06-23 11:40:45 +0000",
       "minecraft:phantom": "2026-06-21 22:06:49 +0000",
       "minecraft:zombified_piglin": "2026-06-23 12:01:21 +0000",
@@ -1219,6 +1220,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2026-06-23 12:17:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/soap/piston": {
     "criteria": {
       "has_item_minecraft_sticky_piston_1": "2026-06-23 10:52:21 +0000"
@@ -1228,6 +1235,12 @@
   "integrateddynamics:network_foundations/variable_output": {
     "criteria": {
       "criteria_0": "2026-06-23 10:52:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/rope_arrow_create": {
+    "criteria": {
+      "has_item_minecraft_arrow_1": "2026-06-23 12:16:27 +0000"
     },
     "done": true
   },
