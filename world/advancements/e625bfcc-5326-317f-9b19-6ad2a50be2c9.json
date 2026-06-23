@@ -998,6 +998,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/dragon_banner_pattern": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+    },
+    "done": true
+  },
   "hpm:cutter_achievement": {
     "criteria": {
       "cutter_achievement_0": "2026-06-23 09:31:02 +0000"
@@ -1025,6 +1031,12 @@
   "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
       "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
     },
     "done": true
   },
@@ -1079,6 +1091,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2026-06-23 09:11:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_2": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
     },
     "done": true
   },
