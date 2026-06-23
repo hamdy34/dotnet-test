@@ -1054,6 +1054,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2026-06-23 11:44:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/gold_trapdoor": {
     "criteria": {
       "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
@@ -1081,6 +1087,12 @@
   "supplementaries:recipe/soap": {
     "criteria": {
       "has_item_minecraft_water_bucket_1": "2026-06-23 10:21:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:47:00 +0000"
     },
     "done": true
   },
@@ -1156,6 +1168,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-06-23 11:46:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "has_tag_c_dyes_black_1": "2026-06-23 08:23:53 +0000"
@@ -1177,6 +1195,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2026-06-23 09:11:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blackstone_tile": {
+    "criteria": {
+      "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:47:00 +0000"
     },
     "done": true
   },

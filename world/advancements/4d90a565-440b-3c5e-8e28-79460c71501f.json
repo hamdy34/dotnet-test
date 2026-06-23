@@ -1132,6 +1132,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2026-06-23 11:44:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/present": {
     "criteria": {
       "has_item_minecraft_paper_1": "2026-06-23 10:48:01 +0000"
@@ -1153,6 +1159,12 @@
   "integratedtunnels:interfaces/interface_item": {
     "criteria": {
       "criteria_0": "2026-06-23 10:46:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:46:51 +0000"
     },
     "done": true
   },
@@ -1189,6 +1201,12 @@
   "integrateddynamics:network_foundations/variable_output": {
     "criteria": {
       "criteria_0": "2026-06-23 10:52:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blackstone_tile": {
+    "criteria": {
+      "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:46:51 +0000"
     },
     "done": true
   },
