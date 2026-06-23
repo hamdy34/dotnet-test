@@ -987,6 +987,7 @@
       "minecraft:piglin": "2026-06-23 11:40:23 +0000",
       "minecraft:guardian": "2026-06-23 08:39:35 +0000",
       "minecraft:phantom": "2026-06-22 18:29:32 +0000",
+      "minecraft:zombified_piglin": "2026-06-23 12:06:14 +0000",
       "minecraft:vex": "2026-06-23 08:31:27 +0000",
       "minecraft:bogged": "2026-06-23 08:34:16 +0000",
       "minecraft:evoker": "2026-06-23 08:29:49 +0000",
@@ -1135,6 +1136,18 @@
   "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
       "criteria_0": "2026-06-23 09:58:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blackstone_lamp": {
+    "criteria": {
+      "has_item_minecraft_blackstone_1": "2026-06-23 12:05:02 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:template_unbreakable": {
+    "criteria": {
+      "template_unbreakable": "2026-06-23 12:04:46 +0000"
     },
     "done": true
   },
