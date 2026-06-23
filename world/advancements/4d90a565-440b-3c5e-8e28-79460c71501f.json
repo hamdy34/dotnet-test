@@ -1313,6 +1313,24 @@
     },
     "done": true
   },
+  "supplementaries:recipe/stonecutting/stone_tile": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_1": "2026-06-23 16:44:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pedestal": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_2": "2026-06-23 16:44:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stone_tile": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_1": "2026-06-23 16:44:55 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:network_foundations/networks_logic": {
     "criteria": {
       "criteria_0": "2026-06-23 16:42:01 +0000"
