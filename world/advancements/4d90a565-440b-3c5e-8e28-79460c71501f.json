@@ -891,8 +891,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:piglin": "2026-06-23 11:40:45 +0000",
       "minecraft:phantom": "2026-06-21 22:06:49 +0000",
-      "minecraft:zombie": "2026-06-23 01:14:41 +0000"
+      "minecraft:zombie": "2026-06-23 01:14:41 +0000",
+      "minecraft:hoglin": "2026-06-23 11:41:03 +0000"
     },
     "done": false
   },
@@ -1163,6 +1165,12 @@
   "integrateddynamics:network_foundations/variable_input": {
     "criteria": {
       "criteria_0": "2026-06-23 10:52:33 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2026-06-23 11:40:20 +0000"
     },
     "done": true
   },
