@@ -1118,5 +1118,11 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2026-06-23 10:08:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
