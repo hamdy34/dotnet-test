@@ -997,6 +997,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/awnings/awning_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/soap/tipped_arrow": {
     "criteria": {
       "has_item_minecraft_tipped_arrow_1": "2026-06-23 08:34:16 +0000"
@@ -1006,6 +1012,12 @@
   "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
       "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_tag_c_dyes_brown_1": "2026-06-23 09:08:22 +0000"
     },
     "done": true
   },
@@ -1036,6 +1048,18 @@
   "supplementaries:recipe/rope_arrow_create": {
     "criteria": {
       "has_item_minecraft_arrow_1": "2026-06-23 08:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-06-23 09:11:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
     },
     "done": true
   },
