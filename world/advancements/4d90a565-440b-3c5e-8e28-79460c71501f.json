@@ -1040,33 +1040,9 @@
     },
     "done": true
   },
-  "hpm:cutter_achievement": {
+  "pneumaticcraft:unassembled_pcb": {
     "criteria": {
-      "cutter_achievement_0": "2026-06-23 09:31:50 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/drying": {
-    "criteria": {
-      "criteria_0": "2026-06-23 09:50:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_black": {
-    "criteria": {
-      "has_tag_c_dyes_black_2": "2026-06-23 09:50:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2026-06-23 09:46:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/awnings/awning_black": {
-    "criteria": {
-      "has_tag_c_dyes_black_2": "2026-06-23 09:50:39 +0000"
+      "0": "2026-06-23 08:56:06 +0000"
     },
     "done": true
   },
@@ -1076,15 +1052,21 @@
     },
     "done": true
   },
-  "pneumaticcraft:unassembled_pcb": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "0": "2026-06-23 08:56:06 +0000"
+      "diamond": "2026-06-23 09:11:51 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/confetti_popper": {
+  "hpm:cutter_achievement": {
     "criteria": {
-      "has_tag_c_dyes_3": "2026-06-23 09:50:39 +0000"
+      "cutter_achievement_0": "2026-06-23 09:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-23 09:46:53 +0000"
     },
     "done": true
   },
@@ -1100,21 +1082,39 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2026-06-23 09:50:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-06-23 09:50:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-06-23 09:50:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/confetti_popper": {
+    "criteria": {
+      "has_tag_c_dyes_3": "2026-06-23 09:50:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "has_tag_c_dyes_black_1": "2026-06-23 09:50:39 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "integrateddynamics:meneglin_basics/drying": {
     "criteria": {
-      "diamond": "2026-06-23 09:11:51 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/squeezing": {
-    "criteria": {
-      "criteria_0": "2026-06-23 09:50:10 +0000"
+      "criteria_0": "2026-06-23 09:50:43 +0000"
     },
     "done": true
   },
