@@ -681,6 +681,7 @@
     "criteria": {
       "cooked_cod": "2026-06-22 17:58:38 +0000",
       "sweet_berries": "2026-06-21 19:36:53 +0000",
+      "porkchop": "2026-06-23 12:23:31 +0000",
       "cooked_salmon": "2026-06-23 08:34:39 +0000"
     },
     "done": false
@@ -1206,6 +1207,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2026-06-23 12:10:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/ash_brick": {
+    "criteria": {
+      "has_tag_c_ash_1": "2026-06-23 12:29:03 +0000"
     },
     "done": true
   },
