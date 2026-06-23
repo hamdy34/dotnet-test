@@ -1349,15 +1349,21 @@
     },
     "done": true
   },
+  "integrateddynamics:basic_network_components/redstone_reading": {
+    "criteria": {
+      "criteria_0": "2026-06-23 18:51:01 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:aspects/redstone_capturing": {
     "criteria": {
       "criteria_0": "2026-06-23 18:52:17 +0000"
     },
     "done": true
   },
-  "integrateddynamics:basic_network_components/redstone_reading": {
+  "integrateddynamics:aspects/redstone_transmission": {
     "criteria": {
-      "criteria_0": "2026-06-23 18:51:01 +0000"
+      "criteria_0": "2026-06-23 18:54:58 +0000"
     },
     "done": true
   },
