@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2026-06-23 09:05:30 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:unassembled_pcb": {
     "criteria": {
       "0": "2026-06-23 08:56:06 +0000"
