@@ -1010,6 +1010,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-06-23 09:46:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/soap/tipped_arrow": {
     "criteria": {
       "has_item_minecraft_tipped_arrow_1": "2026-06-23 08:34:16 +0000"
@@ -1025,6 +1031,18 @@
   "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
     "criteria": {
       "has_tag_c_dyes_brown_1": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bucket": {
+    "criteria": {
+      "has_item_minecraft_bucket_2": "2026-06-23 09:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-23 09:46:48 +0000"
     },
     "done": true
   },

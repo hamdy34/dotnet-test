@@ -1046,6 +1046,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-23 09:46:53 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
       "criteria_0": "2026-06-23 09:05:30 +0000"
