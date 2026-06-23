@@ -891,9 +891,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2026-06-23 12:10:09 +0000",
       "minecraft:piglin": "2026-06-23 11:40:45 +0000",
       "minecraft:phantom": "2026-06-21 22:06:49 +0000",
       "minecraft:zombified_piglin": "2026-06-23 12:01:21 +0000",
+      "minecraft:wither_skeleton": "2026-06-23 12:11:10 +0000",
       "minecraft:zombie": "2026-06-23 01:14:41 +0000",
       "minecraft:hoglin": "2026-06-23 11:41:03 +0000"
     },
@@ -1133,9 +1135,21 @@
     },
     "done": true
   },
+  "supplementaries:recipe/soap/tipped_arrow": {
+    "criteria": {
+      "has_item_minecraft_tipped_arrow_1": "2026-06-23 12:12:16 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2026-06-23 11:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-06-23 12:10:17 +0000"
     },
     "done": true
   },
@@ -1181,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-06-23 12:10:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:eat_bombegranate": {
     "criteria": {
       "eat_bombegranate": "2026-06-23 11:40:20 +0000"
@@ -1208,6 +1228,12 @@
   "integrateddynamics:network_foundations/variable_output": {
     "criteria": {
       "criteria_0": "2026-06-23 10:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-06-23 12:09:42 +0000"
     },
     "done": true
   },
