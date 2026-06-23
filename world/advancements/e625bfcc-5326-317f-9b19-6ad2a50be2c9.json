@@ -984,6 +984,7 @@
     "criteria": {
       "minecraft:phantom": "2026-06-22 18:29:32 +0000",
       "minecraft:vex": "2026-06-23 08:31:27 +0000",
+      "minecraft:bogged": "2026-06-23 08:34:16 +0000",
       "minecraft:evoker": "2026-06-23 08:29:49 +0000"
     },
     "done": false
@@ -991,6 +992,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:phantom": "2026-06-22 18:29:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap/tipped_arrow": {
+    "criteria": {
+      "has_item_minecraft_tipped_arrow_1": "2026-06-23 08:34:16 +0000"
     },
     "done": true
   },
@@ -1021,6 +1028,12 @@
   "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "has_tag_c_dyes_black_1": "2026-06-23 08:23:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/rope_arrow_create": {
+    "criteria": {
+      "has_item_minecraft_arrow_1": "2026-06-23 08:34:16 +0000"
     },
     "done": true
   },
