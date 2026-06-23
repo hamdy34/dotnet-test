@@ -1028,6 +1028,12 @@
     },
     "done": true
   },
+  "obtrophies:one_trophy": {
+    "criteria": {
+      "has_trophy": "2026-06-23 09:56:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
       "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
@@ -1064,6 +1070,12 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2026-06-23 09:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2026-06-23 08:29:49 +0000"
@@ -1076,6 +1088,12 @@
     },
     "done": true
   },
+  "obtrophies:all_vanilla_trophies": {
+    "criteria": {
+      "turtle": "2026-06-23 09:56:20 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "has_tag_c_dyes_black_1": "2026-06-23 08:23:53 +0000"
@@ -1085,6 +1103,12 @@
   "supplementaries:recipe/rope_arrow_create": {
     "criteria": {
       "has_item_minecraft_arrow_1": "2026-06-23 08:34:16 +0000"
+    },
+    "done": true
+  },
+  "obtrophies:root": {
+    "criteria": {
+      "has_trophy": "2026-06-23 09:56:20 +0000"
     },
     "done": true
   },
