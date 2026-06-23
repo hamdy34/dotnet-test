@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "integratedtunnels:importer_exporter/importer_item": {
+    "criteria": {
+      "criteria_0": "2026-06-23 18:42:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/pedestal": {
     "criteria": {
       "has_item_minecraft_stone_bricks_2": "2026-06-23 16:44:55 +0000"
