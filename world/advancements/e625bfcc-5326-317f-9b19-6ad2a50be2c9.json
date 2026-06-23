@@ -997,6 +997,12 @@
     },
     "done": true
   },
+  "hpm:cutter_achievement": {
+    "criteria": {
+      "cutter_achievement_0": "2026-06-23 09:31:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/awnings/awning_brown": {
     "criteria": {
       "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"

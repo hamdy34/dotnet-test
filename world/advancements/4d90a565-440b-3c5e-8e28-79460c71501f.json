@@ -1040,6 +1040,12 @@
     },
     "done": true
   },
+  "hpm:cutter_achievement": {
+    "criteria": {
+      "cutter_achievement_0": "2026-06-23 09:31:50 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
       "criteria_0": "2026-06-23 09:05:30 +0000"
