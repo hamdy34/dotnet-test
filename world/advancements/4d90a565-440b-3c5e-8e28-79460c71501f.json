@@ -1186,6 +1186,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/blackstone_lamp": {
+    "criteria": {
+      "has_item_minecraft_blackstone_1": "2026-06-23 11:58:10 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:network_foundations/cables_logic": {
     "criteria": {
       "criteria_0": "2026-06-23 10:45:35 +0000"
