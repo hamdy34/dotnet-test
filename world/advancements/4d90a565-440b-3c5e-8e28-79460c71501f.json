@@ -1145,6 +1145,12 @@
     },
     "done": true
   },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2026-06-23 12:53:02 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2026-06-23 11:44:44 +0000"
