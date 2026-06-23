@@ -1004,33 +1004,33 @@
     },
     "done": true
   },
-  "supplementaries:recipe/dragon_banner_pattern": {
+  "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
-      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+      "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
     },
     "done": true
   },
-  "hpm:cutter_achievement": {
+  "supplementaries:recipe/awnings/awning_black": {
     "criteria": {
-      "cutter_achievement_0": "2026-06-23 09:31:02 +0000"
+      "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_brown": {
+  "supplementaries:recipe/confetti_popper": {
     "criteria": {
-      "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
+      "has_tag_c_dyes_3": "2026-06-23 08:23:53 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
     "criteria": {
-      "lava_bucket": "2026-06-23 09:46:01 +0000"
+      "has_tag_c_dyes_black_1": "2026-06-23 08:23:53 +0000"
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/menril_production": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "criteria_0": "2026-06-23 10:08:30 +0000"
+      "voluntary_exile": "2026-06-23 08:29:49 +0000"
     },
     "done": true
   },
@@ -1040,9 +1040,75 @@
     },
     "done": true
   },
-  "supplementaries:recipe/gold_door": {
+  "supplementaries:recipe/rope_arrow_create": {
     "criteria": {
-      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
+      "has_item_minecraft_arrow_1": "2026-06-23 08:34:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_tag_c_dyes_brown_1": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-06-23 09:11:47 +0000"
+    },
+    "done": true
+  },
+  "hpm:cutter_achievement": {
+    "criteria": {
+      "cutter_achievement_0": "2026-06-23 09:31:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bucket": {
+    "criteria": {
+      "has_item_minecraft_bucket_2": "2026-06-23 09:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-06-23 09:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-23 09:46:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/dragon_banner_pattern": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_2": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
     },
     "done": true
   },
@@ -1052,21 +1118,45 @@
     },
     "done": true
   },
-  "supplementaries:recipe/buntings/bunting_black": {
+  "obtrophies:all_vanilla_trophies": {
     "criteria": {
-      "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
+      "turtle": "2026-06-23 09:56:20 +0000"
+    },
+    "done": false
+  },
+  "obtrophies:root": {
+    "criteria": {
+      "has_trophy": "2026-06-23 09:56:20 +0000"
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
-      "blacksmith": "2026-06-23 11:44:42 +0000"
+      "criteria_0": "2026-06-23 09:58:28 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "integrateddynamics:meneglin_basics/menril_production": {
     "criteria": {
-      "deflected_projectile": "2026-06-23 12:11:24 +0000"
+      "criteria_0": "2026-06-23 10:08:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap": {
+    "criteria": {
+      "has_item_minecraft_water_bucket_1": "2026-06-23 10:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-06-23 11:07:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_door": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
     },
     "done": true
   },
@@ -1082,9 +1172,15 @@
     },
     "done": true
   },
-  "supplementaries:recipe/present": {
+  "supplementaries:recipe/key": {
     "criteria": {
-      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_bars": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
     },
     "done": true
   },
@@ -1094,51 +1190,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/soap": {
-    "criteria": {
-      "has_item_minecraft_water_bucket_1": "2026-06-23 10:21:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:47:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "has_tag_c_dyes_brown_1": "2026-06-23 09:08:22 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:root": {
-    "criteria": {
-      "0": "2026-06-23 12:18:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2026-06-23 11:15:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/lumisene_bucket": {
-    "criteria": {
-      "has_item_minecraft_bucket_2": "2026-06-23 09:45:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2026-06-23 09:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2026-06-23 12:09:45 +0000"
     },
     "done": true
   },
@@ -1148,59 +1202,11 @@
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_black": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "has_tag_c_dyes_black_2": "2026-06-23 08:23:53 +0000"
+      "blacksmith": "2026-06-23 11:44:42 +0000"
     },
     "done": true
-  },
-  "integrateddynamics:meneglin_basics/meneglin_discovery": {
-    "criteria": {
-      "criteria_0": "2026-06-23 09:58:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/blackstone_lamp": {
-    "criteria": {
-      "has_item_minecraft_blackstone_1": "2026-06-23 12:05:02 +0000"
-    },
-    "done": true
-  },
-  "constructionstick:template_unbreakable": {
-    "criteria": {
-      "template_unbreakable": "2026-06-23 12:04:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2026-06-23 08:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2026-06-23 11:07:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/confetti_popper": {
-    "criteria": {
-      "has_tag_c_dyes_3": "2026-06-23 08:23:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/key": {
-    "criteria": {
-      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
-    },
-    "done": true
-  },
-  "obtrophies:all_vanilla_trophies": {
-    "criteria": {
-      "turtle": "2026-06-23 09:56:20 +0000"
-    },
-    "done": false
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
@@ -1208,33 +1214,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+  "supplementaries:recipe/stonecutting/blackstone_tile": {
     "criteria": {
-      "has_tag_c_dyes_black_1": "2026-06-23 08:23:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/rope_arrow_create": {
-    "criteria": {
-      "has_item_minecraft_arrow_1": "2026-06-23 08:34:16 +0000"
-    },
-    "done": true
-  },
-  "obtrophies:root": {
-    "criteria": {
-      "has_trophy": "2026-06-23 09:56:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2026-06-23 09:11:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2026-06-23 12:09:34 +0000"
+      "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:47:00 +0000"
     },
     "done": true
   },
@@ -1244,21 +1226,39 @@
     },
     "done": true
   },
-  "supplementaries:recipe/trapped_present_2": {
+  "constructionstick:template_unbreakable": {
     "criteria": {
-      "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+      "template_unbreakable": "2026-06-23 12:04:46 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/buntings/bunting_brown": {
+  "supplementaries:recipe/blackstone_lamp": {
     "criteria": {
-      "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
+      "has_item_minecraft_blackstone_1": "2026-06-23 12:05:02 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/gold_bars": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
+      "fortress": "2026-06-23 12:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-06-23 12:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-06-23 12:11:24 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2026-06-23 12:18:59 +0000"
     },
     "done": true
   },
