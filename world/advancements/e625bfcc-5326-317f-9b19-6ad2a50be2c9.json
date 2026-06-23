@@ -1052,6 +1052,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/soap": {
+    "criteria": {
+      "has_item_minecraft_water_bucket_1": "2026-06-23 10:21:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
     "criteria": {
       "has_tag_c_dyes_brown_1": "2026-06-23 09:08:22 +0000"
