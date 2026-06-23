@@ -896,6 +896,7 @@
       "minecraft:piglin": "2026-06-23 11:40:45 +0000",
       "minecraft:phantom": "2026-06-21 22:06:49 +0000",
       "minecraft:zombified_piglin": "2026-06-23 12:01:21 +0000",
+      "minecraft:magma_cube": "2026-06-23 12:18:47 +0000",
       "minecraft:wither_skeleton": "2026-06-23 12:11:10 +0000",
       "minecraft:zombie": "2026-06-23 01:14:41 +0000",
       "minecraft:hoglin": "2026-06-23 11:41:03 +0000"
@@ -1181,6 +1182,12 @@
   "supplementaries:recipe/stonecutting/blackstone_tile": {
     "criteria": {
       "has_item_minecraft_polished_blackstone_bricks_1": "2026-06-23 11:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-06-23 12:19:57 +0000"
     },
     "done": true
   },

@@ -1112,6 +1112,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2026-06-23 12:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2026-06-23 11:15:42 +0000"
