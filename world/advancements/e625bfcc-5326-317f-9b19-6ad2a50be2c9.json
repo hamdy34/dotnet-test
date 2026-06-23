@@ -1034,6 +1034,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/gold_door": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
+    },
+    "done": true
+  },
   "obtrophies:one_trophy": {
     "criteria": {
       "has_trophy": "2026-06-23 09:56:20 +0000"
@@ -1046,9 +1052,27 @@
     },
     "done": true
   },
+  "supplementaries:recipe/gold_trapdoor": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_gate": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2026-06-23 11:15:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/present": {
     "criteria": {
       "has_item_minecraft_paper_1": "2026-06-23 09:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-06-23 11:15:42 +0000"
     },
     "done": true
   },
@@ -1061,6 +1085,12 @@
   "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
     "criteria": {
       "has_tag_c_dyes_brown_1": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-06-23 11:15:42 +0000"
     },
     "done": true
   },
@@ -1106,6 +1136,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/key": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
+    },
+    "done": true
+  },
   "obtrophies:all_vanilla_trophies": {
     "criteria": {
       "turtle": "2026-06-23 09:56:20 +0000"
@@ -1145,6 +1181,12 @@
   "supplementaries:recipe/buntings/bunting_brown": {
     "criteria": {
       "has_tag_c_dyes_brown_2": "2026-06-23 09:08:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_bars": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-23 11:15:05 +0000"
     },
     "done": true
   },
