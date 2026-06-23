@@ -1379,5 +1379,23 @@
     },
     "done": true
   },
+  "integrateddynamics:basic_network_components/machine_reading": {
+    "criteria": {
+      "criteria_0": "2026-06-23 19:48:46 +0000"
+    },
+    "done": true
+  },
+  "integratedcrafting:autocrafting_trigger/craft_crafting_writer": {
+    "criteria": {
+      "criteria_0": "2026-06-23 19:52:00 +0000"
+    },
+    "done": true
+  },
+  "integratedcrafting:autocrafting_setup/craft_crafting_interface": {
+    "criteria": {
+      "criteria_0": "2026-06-23 19:47:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
