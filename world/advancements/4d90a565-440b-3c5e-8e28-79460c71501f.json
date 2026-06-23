@@ -1118,9 +1118,27 @@
     },
     "done": true
   },
+  "supplementaries:recipe/dragon_banner_pattern": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 10:48:01 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/menril_production": {
     "criteria": {
       "criteria_0": "2026-06-23 10:08:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 10:48:01 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variables": {
+    "criteria": {
+      "criteria_0": "2026-06-23 10:48:42 +0000"
     },
     "done": true
   },
@@ -1133,6 +1151,18 @@
   "integrateddynamics:network_foundations/cables_logic": {
     "criteria": {
       "criteria_0": "2026-06-23 10:45:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap/piston": {
+    "criteria": {
+      "has_item_minecraft_sticky_piston_1": "2026-06-23 10:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_2": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2026-06-23 10:48:01 +0000"
     },
     "done": true
   },
