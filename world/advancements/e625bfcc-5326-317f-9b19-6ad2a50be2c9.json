@@ -1262,5 +1262,11 @@
     },
     "done": true
   },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2026-06-23 18:04:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
