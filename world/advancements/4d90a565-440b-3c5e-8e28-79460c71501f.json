@@ -1379,6 +1379,12 @@
     },
     "done": true
   },
+  "integratedcrafting:autocrafting_setup/craft_crafting_interface": {
+    "criteria": {
+      "criteria_0": "2026-06-23 19:47:21 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:basic_network_components/machine_reading": {
     "criteria": {
       "criteria_0": "2026-06-23 19:48:46 +0000"
@@ -1391,9 +1397,39 @@
     },
     "done": true
   },
-  "integratedcrafting:autocrafting_setup/craft_crafting_interface": {
+  "integratedtunnels:import_all_items/import_all_items": {
     "criteria": {
-      "criteria_0": "2026-06-23 19:47:21 +0000"
+      "criteria_0": "2026-06-23 20:26:47 +0000"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2026-06-23 20:39:16 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/menril_wrenching": {
+    "criteria": {
+      "criteria_0": "2026-06-23 20:55:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2026-06-23 22:37:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2026-06-23 22:37:27 +0000"
+    },
+    "done": true
+  },
+  "integratedtunnels:import_items_list/import_items_list": {
+    "criteria": {
+      "criteria_0": "2026-06-23 22:51:16 +0000"
     },
     "done": true
   },
