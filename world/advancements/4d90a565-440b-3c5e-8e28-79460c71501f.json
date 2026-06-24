@@ -1439,5 +1439,11 @@
     },
     "done": true
   },
+  "jumbofurnace:assemble_jumbo_furnace": {
+    "criteria": {
+      "assemble_jumbo_furnace": "2026-06-24 13:46:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
