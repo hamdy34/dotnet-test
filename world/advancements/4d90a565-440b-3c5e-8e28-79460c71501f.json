@@ -1457,5 +1457,11 @@
     },
     "done": true
   },
+  "jumbofurnace:fully_upgrade_jumbo_furnace": {
+    "criteria": {
+      "fully_upgrade_jumbo_furnace": "2026-06-24 14:33:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
