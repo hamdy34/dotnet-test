@@ -1,0 +1,12 @@
+Foret de Minage
+Mon foret percera la Bedrock !
+<&drill_base_recipes>Le foret portatif alimenté au diesel est une avancée majeure dans le domaine du minage. Grâce à ses têtes de foret interchangeables et ses améliorations, sa vitesse et ses autres propriétés sont presque entièrement modifiables.<br>
+Pour le modifier, placez-le dans un <link;engineers_workbench;Engineer's Workbench;start>.<np>
+Le foret fonctionne au <link;industrial_fluids;Biodiesel;biodiesel> et peut être rempli directement dans la raffinerie, ou à partir d'autres stockages tels que le <link;storage_barrels;barrels> ou le <link;tank;large tanks>.<br>
+Le foret creuse dans une zone dépendant de la tête de foret utilisée, mais peut être limité à un seul bloc en s'accroupissant ou en faisant un clic droit tout en étant accroupi.<np>
+<&drill_head_recipes>La §2Drill Head§r détermine le §2niveau de minage§r de base, la §2vitesse§r, la §2taille§r, ainsi que les §2dégâts d'attaque§r. À mesure que vous creusez des blocs, la tête de foret subit des dégâts, mais elle peut être réparée dans une enclume.<np>
+<&drill_waterproof_recipe>Comme le foret est propulsé par un moteur à combustion, il ne fonctionnera pas sous l'eau à moins d'être équipé du §2Pressurized Air Tank§r. Avec le réservoir équipé, il fonctionnera non seulement en étant submergé, mais ignorera également le ralentissement habituellement subi lors du minage.<np>
+<&drill_lube_recipe>L'§2Advanced Lubrication System§r applique régulièrement du lubrifiant supplémentaire au foret, réduisant ainsi la perte de durabilité de la tête de foret.<np>
+<&drill_damage_recipe>En ajoutant des §2Additional Augers§r au foret, son potentiel destructeur est accru, augmentant ses dégâts contre les créatures vivantes et lui permettant de fonctionner et de creuser plus vite. Cette amélioration est cumulable jusqu'à trois fois.<np>
+<&drill_fortune_recipe>L'action puissante du foret entraîne le gaspillage d'une partie des précieux minéraux présents dans le sol. En utilisant du <link;industrial_fluids;redstone acid;redstone_acid> pour ramollir la roche au préalable, le foret peut extraire beaucoup plus de minerai brut des blocs (similaire à l'enchantement §2Fortune§r).<np>
+<&drill_capacity_recipe>Le §2Large Fuel Tank§r permet au foret de stocker plus de carburant en interne, prolongeant ainsi la durée d'utilisation avant de devoir le remplir à nouveau.

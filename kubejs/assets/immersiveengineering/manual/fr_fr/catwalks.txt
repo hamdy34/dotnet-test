@@ -1,0 +1,5 @@
+Passerelles
+Conformes aux normes !
+<&catwalk_recipes>Les passerelles sont des structures plus sûres pour les étages supérieurs d'une usine car, contrairement aux <link;scaffolding_and_ladders;scaffolding>, elles peuvent être équipées de garde-corps.
+En s'accroupissant et en utilisant un §2Engineer's Hammer§r sur la passerelle, cela ajoutera ou retirera le garde-corps du côté correspondant.<br>
+Sur les passerelles métalliques, le garde-corps peut également être coloré en utilisant n'importe quelle teinture sur celui-ci.

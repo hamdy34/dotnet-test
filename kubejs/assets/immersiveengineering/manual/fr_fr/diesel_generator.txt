@@ -1,0 +1,9 @@
+Générateur Diesel
+Mieux que le volume : Plus de volume.
+L'architecture Haute-Tension est peut-être fascinante, mais un réseau électrique n'est pas très utile s'il n'y a pas de générateur capable de l'alimenter.<br>
+Le Générateur Diesel est la méthode principale de génération d'énergie HV. Il fonctionne au <link;industrial_fluids;Biodiesel;biodiesel> ou avec d'autres carburants lourds, comme détaillé dans les pages suivantes. En raison de sa puissance élevée, il consomme du carburant rapidement, une production de carburant suffisante est donc indispensable.<np>
+<&structure>Le moteur et le générateur sont construits à partir de radiateurs, de tuyaux, de blocs d'ingénierie et d'échafaudages comme illustré ci-dessus, et formés en activant le générateur central avec un Engineer's Hammer.<br>
+Le carburant doit être inséré dans les coins inférieurs du générateur, et l'énergie sera transmise jusqu'à trois prises sur la barre située au-dessus du générateur.<br>
+Les <config;i;machines.dieselGen_output>Flux/t produits par le générateur seront répartis entre toutes les prises connectées. Le générateur ne fonctionnera que si au moins une sortie peut accepter de l'énergie.<br>
+Le petit terminal sur le côté éteindra le générateur s'il reçoit un signal redstone ; ce comportement peut être inversé à l'aide de l'Engineer's Screwdriver.<br>
+Voici une liste des carburants que le générateur peut accepter et la durée pendant laquelle un seau plein alimentera le générateur : <&list>

@@ -1,0 +1,6 @@
+Fermenteur
+Skál !
+Le Fermenteur est une structure multibloc qui extrait de l'éthanol de certains fruits, grains et légumes via un processus de fermentation. La structure se construit comme illustré ci-dessus et se forme en utilisant le Marteau de l'Ingénieur sur le chaudron central, du côté du port de redstone.<br>
+Les objets peuvent être insérés dans le Fermenteur via les deux trappes à l'arrière marquées de points bleus. La trappe avec le point orange sert de sortie pour les objets et le bloc en dessous pour la sortie des fluides.<br>
+L'application d'un signal de redstone sur le panneau de contrôle à l'avant arrêtera le fonctionnement de la machine ; ce comportement peut être inversé en utilisant le Tournevis de l'Ingénieur.<np>
+La liste suivante présente les différents objets pouvant être fermentés en éthanol, ainsi que la quantité qu'ils produisent.<&list>

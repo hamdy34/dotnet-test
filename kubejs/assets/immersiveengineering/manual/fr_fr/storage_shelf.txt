@@ -1,0 +1,9 @@
+Étagère de rangement
+Solutions créatives
+<&multiblock>L'étagère de rangement aide à l'organisation dans l'atelier, permettant d'y stocker plusieurs <link;storage_crates;crates>, caisses renforcées et même des boîtes de shulker.<br>
+Les caisses sont ajoutées à l'étagère en faisant un clic droit sur les espaces vides, et peuvent être retirées en s'accroupissant et en faisant un clic droit avec une main vide.<br>
+Le contenu des blocs est accessible via l'interface de l'étagère, chaque niveau de l'étagère en possédant une distincte. Appuyer sur le bouton en bas à droite de l'interface permet de basculer entre les caisses du côté proche et du côté éloigné de l'étagère.<np>
+§nAutomatisation§r<br>
+L'étagère prend en charge l'insertion et l'extraction automatiques, une ligne complète de caisses étant accessible en fonction de la position et du côté.<br>
+Cela signifie qu'en plaçant un entonnoir contre l'avant ou l'arrière de l'étagère, il insérera dans deux caisses ; lorsqu'il est placé contre le côté, il insérera dans la rangée de quatre caisses ; et par le haut, dans une colonne de trois caisses.<br>
+Toute insertion ou extraction automatique commence toujours par la première caisse de cette ligne.

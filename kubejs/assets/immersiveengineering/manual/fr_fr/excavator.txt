@@ -1,0 +1,10 @@
+Excavatrice
+Mieux que les Nains
+<&full>L'Excavatrice est l'un des sommets de l'industrie moderne, capable d'extraire des <link;mineral_deposits;minerals> à partir de filons normalement inaccessibles.<np>
+En raison des exigences intensives liées à l'extraction de filons clairsemés dans la roche, l'Excavatrice est une machine complexe qui nécessite <config;i;machines.excavator.consumption> Flux/t pour fonctionner.<br>
+L'extraction commence à la pointe inférieure de la roue à godets, et les matériaux sont éjectés à l'arrière du support du moteur.<br>
+Les trois prises du moteur reçoivent l'énergie par le côté, et l'arrière dispose d'un panneau de contrôle redstone.<br>
+À mesure que l'excavatrice extrait des minerais, le rendement du filon diminue lentement, mais un gisement minéral peut fournir au maximum <config;i;machines.excavator.yield> blocs de minerai.<br>
+La structure est composée de deux parties : le moteur illustré à la page suivante et la roue à godets affichée sur la suivante, qui s'insère dans les « supports » du moteur. La structure complète peut être assemblée en utilisant le Marteau de l'Ingénieur sur le Bloc d'Ingénierie Lourde central à l'arrière.<br>
+<&wheel>La roue peut être formée seule en utilisant le Marteau de l'Ingénieur sur le bloc d'acier central.
+<&engine>Le moteur peut être formé seul via le Bloc d'Ingénierie Lourde du port central arrière, et formera la roue à godets avec lui à condition qu'elle soit placée correctement.

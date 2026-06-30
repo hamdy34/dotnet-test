@@ -1,0 +1,16 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_fluids":  [
+                         {
+                             "amount":  1000,
+                             "fluid":  "minecraft:water"
+                         }
+                     ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:ice",
+                             "count":  1
+                         }
+                     ],
+    "temperature":  "chilled"
+}

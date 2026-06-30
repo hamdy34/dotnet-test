@@ -1,0 +1,10 @@
+Caisses de stockage
+On remballe !
+<&crate>Les Caisses de stockage en bois (Wooden Storage Crates) fonctionnent de manière similaire à un coffre, stockant jusqu'à 27 piles de matériaux et émettant un signal de comparateur basé sur leur remplissage.<br>
+Contrairement aux coffres, elles peuvent être scellées pour conserver tous les matériaux stockés à l'intérieur de la caisse lorsqu'elle est ramassée.
+Utiliser un <link;basic_tools;Engineer's Hammer;engineers_hammer> sur une caisse pendant une durée prolongée la scellera, après quoi elle pourra être brisée pour être récupérée.<br>
+Cela signifie que, contrairement aux Boîtes de Shulker, les caisses de stockage ne peuvent pas être brisées par des pistons.<br>
+Lors de l'ouverture de l'interface d'une caisse, son nom en haut peut être modifié, et le nom édité apparaîtra en regardant le bloc par la suite.<np>
+<&reinforced_crate>Les Caisses de stockage renforcées (Reinforced Storage Crates) possèdent une armature en acier, leur permettant de résister aux dangers dévastateurs posés par les explosions.<br>
+Pour cette raison, elles ne se briseront pas et ne laisseront pas tomber leurs objets lorsque des explosions se produisent assez près pour normalement les détruire.<br>
+Les deux types de caisses, ainsi que les boîtes de shulker, peuvent être placés sur un <link;storage_shelf;storage shelf> pour un accès plus facile à leurs objets.

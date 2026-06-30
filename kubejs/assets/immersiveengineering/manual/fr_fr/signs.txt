@@ -1,0 +1,4 @@
+Panneaux
+Des Enseignes de Qualité !
+<&recipes>Le bois traité, l'aluminium et l'acier peuvent tous être utilisés pour fabriquer des panneaux et des panneaux suspendus.<br>
+Ils se comportent exactement comme n'importe quel panneau en bois, ce qui inclut la coloration du texte avec de la §2teinture§r ou le fait de le rendre brillant en appliquant une §2poche d'encre luisante§r.

@@ -1,0 +1,20 @@
+Connecteur de Sonde Redstone
+Relativement passionnant
+Les Connecteurs de Sonde sont des dispositifs compacts possédant de nombreuses fonctions du §2comparateur redstone§r.<br>
+Les niveaux de signal du comparateur seront émis sur le fil redstone connecté. De plus, un §lseuil de signal§r peut être défini afin que la sonde n'émette un signal que s'il est supérieur au seuil donné.<br>
+Ces sondes peuvent fonctionner sur deux canaux, envoyant leur signal de lecture sur l'un tout en recevant et émettant des signaux sur un autre. Tous ces paramètres sont configurés à l'aide du Tournevis de l'Ingénieur.<br>
+Notez que de nombreux multiblocs supportent les comparateurs, comme décrit dans les pages suivantes. Lorsqu'elle est disponible, la surface de contrôle redstone du multibloc est l'endroit désigné pour connecter un comparateur ou un connecteur de sonde.<np>
+§lRéservoir : §rComme détaillé dans sa <link;tank;manual entry>
+§lSilo : §rComme détaillé dans son <link;silo;manual entry>
+§lAssembleur : §rÉmet un signal relatif au remplissage de l'inventaire.
+§lÉtabli Automatisé : §rÉmet un signal relatif au remplissage de l'inventaire.
+§lBroyeur : §rÉmet un signal relatif au remplissage de l'inventaire.
+§lScierie : §rÉmet un signal relatif à l'intégrité de la lame de scie.<np>
+§lFour à Arc : §rÉmet un signal relatif au remplissage de l'inventaire.
+Un comparateur placé au niveau des électrodes sur le dessus enverra un signal reflétant l'intégrité de l'électrode la plus endommagée.
+§lPresse : §rÉmet un signal relatif au remplissage de l'inventaire.
+§lFermenteur : §rÉmet un signal relatif au remplissage de l'inventaire.
+§lMélangeur : §rÉmet un signal relatif au remplissage de l'inventaire.<np>
+§lExcavatrice : §rÉmet un signal relatif au minerai restant dans le filon.<br>
+<br>
+Pour une analyse plus détaillée des différents multiblocs, de leurs inventaires, et de leurs stockages d'énergie et de fluides, envisagez d'utiliser le <link;machine_interface;Machine Interface> à la place.

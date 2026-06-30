@@ -1,0 +1,6 @@
+Wagons de stockage
+Let The Bullgine Run
+<&item_storage><link;storage_crates;Storage Crates> peuvent être placés dans des wagons de mine, tout comme les coffres et les entonnoirs.<br>
+Lorsqu'elles sont placées dans des wagons, les caisses agissent comme elles le font à l'extérieur et conservent leurs objets à l'intérieur lorsqu'elles sont brisées, contrairement aux coffres.<np>
+<&fluid_storage><link;storage_barrels;Storage Barrels> peuvent être placés dans des wagons de mine, tout comme les coffres et les entonnoirs.<br>
+Lorsqu'ils sont placés dans des wagons, les barils agissent comme ils le font à l'extérieur, acceptant les fluides provenant de seaux et affichant le fluide aux contenants.

@@ -1,0 +1,7 @@
+Établi Automatisé
+Pour ceux qui ne savent pas passer les vitesses
+<&multiblock>L'Établi Automatisé est l'un des premiers succès majeurs de l'ingénierie à petite échelle.<br>
+La machine est capable de suivre un ensemble d'instructions décrites par un <link;blueprints;Blueprint;start> pour assembler les objets détaillés par celui-ci.<np>
+Une fois la structure multi-bloc assemblée, un Blueprint peut être placé sur sa table à dessin. Après avoir sélectionné l'objet à créer, elle commencera le processus d'assemblage. Pour que la machine fonctionne, elle devra être alimentée en matériaux et en énergie.<br>
+Les entrées d'objets sont les deux trappes marquées de points bleus, l'entrée d'énergie se situe au-dessus d'elles. Les objets finis sont déposés à l'extrémité du tapis roulant.<br>
+L'application d'un signal redstone sur le panneau de contrôle situé sous la table à dessin arrêtera le processus de la machine, ce comportement peut être inversé à l'aide de l'Engineer's Screwdriver.

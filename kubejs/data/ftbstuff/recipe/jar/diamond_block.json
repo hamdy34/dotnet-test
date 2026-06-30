@@ -1,0 +1,16 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  9,
+                            "tag":  "c:raw_materials/diamond"
+                        }
+                    ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:diamond_block",
+                             "count":  1
+                         }
+                     ],
+    "temperature":  "superheated"
+}

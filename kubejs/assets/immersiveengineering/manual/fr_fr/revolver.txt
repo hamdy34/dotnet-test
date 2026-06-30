@@ -1,0 +1,12 @@
+Revolver
+Recherché : Mort ou Vif
+<&recipe>Le Revolver, une arme plus élégante issue d'une époque plus civilisée, est une prouesse de petite mécanique. "Petite" étant relatif ici, puisque cette arme est chambrée pour du calibre 12.<np>
+Semblable à la Foreuse, le Revolver peut être modifié dans l'<link;engineers_workbench;Engineer's Workbench>, comme détaillé dans les dernières pages.<br>
+Notez que tirer avec le revolver est assez bruyant et attirera l'attention des monstres hostiles aux alentours !<br>
+Il existe différentes <link;revolver_cartridges;types of ammunition;> que le Revolver accepte. Pour le charger, faites Sneak + clic droit avec l'arme, puis placez les cartouches dans les emplacements.<np>
+<&speedloader>Un §2Speedloader§r chargé dans votre inventaire sera utilisé pour recharger le revolver après avoir tiré votre dernier coup.
+<np>
+<&scope>La §2Lunette de Précision§r vous permet de zoomer avec le revolver. Utilisez §l<keybind;key.immersiveengineering.railgunZoom>§r pour utiliser la lunette et faites défiler la molette de la souris pour changer de niveau de grossissement.
+<&bayonet>En fixant une §2Baïonnette§r au revolver, vous l'équipez pour le combat rapproché, permettant des dégâts de mêlée aussi puissants qu'une Épée en fer.<np>
+<&extmag>Le §2Chargeur Étendu§r permet de charger 6 cartouches supplémentaires dans le revolver. Ce chargeur n'est pas rempli par un speedloader.<np>
+<&tubes>Les §2Tubes Électroniques d'Amplification§r appliquent un choc électrique aux projectiles tirés. Ce choc persiste jusqu'à ce qu'il touche la cible (ne demandez pas comment ça fonctionne) et lui est transmis. La cible sera étourdie pendant une fraction de seconde et tout équipement alimenté qu'elle pourrait utiliser subira une légère décharge.

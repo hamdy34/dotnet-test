@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "mekanism:steam", "required": false },
+    { "id": "bigreactors:steam", "required": false }
+  ]
+}

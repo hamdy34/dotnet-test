@@ -1,0 +1,7 @@
+Ballon
+...faites-en juste 99
+<&recipe>Les ballons sont des sacs de tissu avec une source de chaleur en dessous pour les maintenir à flot. Ils émettent de la lumière, mais malgré la torche, ils ne présentent pas de risque d'incendie.
+Les ballons peuvent être placés comme des blocs normaux, ou lorsqu'aucun bloc n'est ciblé, ils seront placés dans les airs devant vous.<br>
+Tout comme les <link;metal_construction;Structural Connectors;connector_recipes>, vous pouvez attacher de la Hemp Rope et du Steel Wire au ballon.<br>
+S'accroupir en faisant un clic droit lors du placement vous permet de définir un décalage de hauteur pour le ballon, vous permettant de le placer jusqu'à 5 blocs au-dessus de la cible. S'accroupir et faire un clic droit sur un ballon vous permettra de le ramasser.<br>
+Vous pouvez également utiliser des teintures sur un ballon placé ; la partie que vous teignez dépend de l'endroit où vous visez. Faire un clic droit avec un Engineer's Hammer alternera le motif du ballon entre des rayures horizontales ou verticales.

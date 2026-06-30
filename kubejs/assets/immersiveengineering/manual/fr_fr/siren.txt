@@ -1,0 +1,6 @@
+Sirène d'alarme
+Awooga !
+Lorsque les choses tournent mal dans une usine, les ouvriers doivent être avertis par un signal sonore puissant, audible malgré le bruit des machines lourdes.<br>
+La sirène d'alarme affecte les villageois à proximité comme une cloche, les renvoyant dans leurs maisons.<np>
+Les sirènes peuvent être placées contre les murs ou sur le dessus de <link;posts_and_wallmounts;posts>, et connectées avec <link;redstone_wiring;redstone wires>.<br>
+L'utilisation d'un Engineer's Screwdriver sur une sirène affiche l'interface pour configurer la couleur de son signal. De plus, une sirène d'alarme peut être réglée pour produire l'un des trois sons suivants : sirène, klaxon ou buzzer.

@@ -1,0 +1,8 @@
+Protège-oreilles
+BRUIT ASSOURDISSANT !
+<&recipe>Les Protège-oreilles sont des dispositifs destinés à protéger votre audition. Ils sont très importants pour les ingénieurs travaillant à proximité immédiate de <link;diesel_generator;Diesel Generators;> ou d'autres machines bruyantes.<br>
+Lorsque vous portez des Protège-oreilles, tous les bruits sont réduits de 90 % et ils rendent vos oreilles considérablement plus au chaud et douillettes ! :D<br>
+Placer les Protège-oreilles dans l'<link;engineers_workbench;Engineer's Workbench;> vous permet de spécifier quels types de bruits vous souhaitez annuler et de combien leur volume doit être réduit.<np>
+<&color_and_armor>
+Les fabriquer avec n'importe quel autre casque attachera les protections à cette pièce d'équipement ; fabriquer le casque seul retirera à nouveau les protections, pour permettre une personnalisation plus poussée.<br>
+Les Protège-oreilles peuvent être teints de la même manière que l'armure en cuir.

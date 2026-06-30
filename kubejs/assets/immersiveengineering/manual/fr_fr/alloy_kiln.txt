@@ -1,0 +1,6 @@
+Four à alliage
+Mélange de métaux
+<&recipe>Le Four à alliage est un fourneau simple fabriqué à partir de grès résistant à la chaleur et de briques. À l'intérieur, les températures sont suffisamment élevées pour permettre aux métaux d'être fondus à l'état liquide et mélangés, créant ainsi un <link;basic_metal_products;alloy;alloys>.
+Cela permet la création d'alliages importants comme l'Electrum et le Constantan sans le mélange fastidieux de poudres.<np>
+<&multiblock>Pour former le Four, disposez 8 Briques de four en un cube de 2x2x2, comme illustré ci-dessus, et faites un clic droit sur l'un des blocs latéraux avec un Marteau de l'ingénieur.<np>
+<&insulating_glass>Le four à alliage est également essentiel dans la création de §2verre isolant§r, un composant utilisé dans la construction de <link;basic_wiring;high-voltage architecture;connector_recipes>.

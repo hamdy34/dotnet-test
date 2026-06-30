@@ -1,0 +1,9 @@
+Réchauffeur externe
+Cuisiner au Flux !
+<&recipe>Le Réchauffeur externe génère de la chaleur à partir du Flux, qu'il transmet via les évents thermiques sur ses côtés.<br>
+Il ne peut pas produire les atmosphères réductrices utilisées dans les Blast Furnaces, la fumée de bois pour la conservation des aliments, ou les températures nécessaires pour les fours à briques (kilns).<br>
+Lorsqu'il est placé à côté d'un four conventionnel, cette énergie thermique fournira la chaleur nécessaire au four sans consommer de combustible.<br>
+Les côtés du réchauffeur peuvent être configurés avec le Engineer's Hammer ; s'accroupir permet de cibler la face opposée.<br>
+Le réchauffeur consommera 8 Flux/t pour chaque four qu'il doit chauffer. Pour préchauffer le four, il en consommera quatre fois plus jusqu'à ce que le four soit à température.<br>
+Lorsqu'un four est à sa température maximale, le Réchauffeur externe consommera un total de §o32 Flux/t§r par four pour augmenter la vitesse de fonte, à moins qu'un signal redstone ne désactive ce boost de vitesse.<br>
+Seuls les fours contenant des objets à fondre et ayant de l'espace pour le résultat seront chauffés.

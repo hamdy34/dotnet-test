@@ -1,0 +1,26 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  1,
+                            "tag":  "c:gems/black_quartz"
+                        },
+                        {
+                            "count":  1,
+                            "item":  "justdirethings:coal_t1"
+                        }
+                    ],
+    "input_fluids":  [
+                         {
+                             "amount":  500,
+                             "fluid":  "justdirethings:polymorphic_fluid_source"
+                         }
+                     ],
+    "output_items":  [
+                         {
+                             "id":  "replication:raw_replica",
+                             "count":  2
+                         }
+                     ],
+    "temperature":  "superheated"
+}

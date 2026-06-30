@@ -1,0 +1,21 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  1,
+                            "item":  "minecraft:glowstone"
+                        }
+                    ],
+    "input_fluids":  [
+                         {
+                             "amount":  1000,
+                             "fluid":  "minecraft:lava"
+                         }
+                     ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:end_stone",
+                             "count":  1
+                         }
+                     ]
+}

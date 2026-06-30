@@ -1,0 +1,16 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  9,
+                            "tag":  "c:raw_materials/nickel"
+                        }
+                    ],
+    "output_items":  [
+                         {
+                             "id":  "ftbmaterials:nickel_block",
+                             "count":  1
+                         }
+                     ],
+    "temperature":  "superheated"
+}

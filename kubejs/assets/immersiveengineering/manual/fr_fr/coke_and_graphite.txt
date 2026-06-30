@@ -1,0 +1,9 @@
+Coke et Graphite
+Produits du charbon
+<&coke>Le Coke de Charbon est une forme purifiée de carbone similaire au charbon de bois. Le Coke est créé à partir du charbon dans le <link;coke_oven;Coke Oven>.<br>
+Il est utilisé dans la fabrication de l'acier sous toutes ses formes, du <link;crude_blast_furnace;simplest> au <link;arc_furnace;most advanced>, et constitue un meilleur combustible de four que le charbon.
+<&graphite>Le Graphite Pyrolytique Hautement Ordonné (HOP) est un allotrope complexe de graphite utilisé dans des constructions d'ingénierie spéciales.<br>
+La Poussière de Graphite HOP est créée en compressant huit morceaux de Poussière de Coke dans le <link;squeezer;Industrial Squeezer>.
+Cette poussière peut ensuite être façonnée sous d'autres formes dans la <link;bottling_machine;Bottling Machine> comme illustré à la page suivante.
+<&shaping>Alors que les plaques de graphite sont utilisées dans l'assemblage des <link;accumulators;HV Accumulators>, la poussière peut également être façonnée en électrodes, essentielles au fonctionnement du <link;arc_furnace;Arc Furnace>.<br>
+Les deux sont fabriqués en plaçant la poussière et un moule correspondant sur le convoyeur de la Bottling Machine, qui compacte la poussière, la sature de <link;industrial_fluids;Creosote Oil;creosote_oil> et la cuit pour lui donner sa forme.

@@ -1,0 +1,11 @@
+Shaders
+Bleu ! Non, jaune !
+Les Shaders sont des objets que vous pouvez trouver dans le monde ou acquérir en commerçant avec des villageois.<br>
+Ils n'ont pas d'utilité en soi, mais ils peuvent être équipés sur les <link;revolver;Revolvers>, <link;mining_drill;Drills>, <link;chemical_thrower;Chemical Throwers>, <link;heavy_plated_shield;Heavy Plated Shields>, <link;railgun;Railguns>, et <link;accumulator_backpack;Accumulator Backpacks> (et possiblement d'autres choses qu'il vous reste à découvrir) pour changer l'apparence de l'objet.<br>
+Placez simplement l'objet dans un <link;engineers_workbench;Engineer's Workbench> et équipez le shader dans l'emplacement approprié.<br>
+Vous pouvez également les appliquer sur un Minecart, une Bannière ou un <link;balloon;Balloon> par un clic droit !<br>
+Pour une liste complète de tous les shaders disponibles, leurs apparences, références et plus de détails, <link;shader_list;check here><np>
+<&grab_bag>Les Shader Grabbags sont des objets contenant un shader aléatoire. Ils peuvent être trouvés dans des caisses, échangés avec des villageois ou obtenus sur des boss.<br>
+La rareté du shader contenu est égale ou supérieure à la rareté du sac.<br>
+En utilisant un sac, vous avez plus de chances d'obtenir un shader que vous ne possédez pas encore plutôt qu'un doublon.<br>
+Les sacs de shaders peuvent être décraftés en deux sacs de niveau inférieur. Cela réduira vos chances d'obtenir des shaders rares mais vous offrira plus de tentatives.

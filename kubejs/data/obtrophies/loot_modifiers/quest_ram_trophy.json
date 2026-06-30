@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:loot_table",
+  "conditions": [
+    {
+      "condition": "neoforge:false"
+    }
+  ]
+}

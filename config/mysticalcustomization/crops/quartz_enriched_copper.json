@@ -1,0 +1,23 @@
+{
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+      "item": "refinedstorage:quartz_enriched_copper"
+    },
+    "colors": {
+        "flower": "fe8f32",
+        "essence": "fe8f32",
+        "seeds": "fe8f32"
+    },
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust_resource",
+      "essence": "mysticalagriculture:item/essence_ingot",
+      "seeds": "mysticalagriculture:item/mystical_seeds"
+    },
+    "recipes": {
+        "crafting": false,
+        "infusion": false,
+        "reprocessor": true
+    }
+  }
+  

@@ -1,0 +1,14 @@
+Tourelles
+Êtes-vous toujours là ?
+Les tourelles sont l'étape suivante de la défense automatisée de votre usine. Elles disposent d'un système optique complexe combiné à un « cerveau » électronique pour distinguer et acquérir efficacement les cibles, et utilisent l'armement intégré pour les neutraliser.
+Toutes les tourelles possèdent des ports d'énergie à leur base et nécessitent un signal redstone pour être actives, bien que ce comportement puisse être inversé en s'accroupissant et en faisant un clic droit avec un Engineer's Screwdriver.<np>
+Une fois placées, les tourelles se souviennent de leur propriétaire et ne permettent pas aux autres utilisateurs de les briser ou de les modifier. Un clic droit sur la tourelle ouvre l'interface (GUI) qui présente une liste de noms avec un champ de saisie, ainsi que plusieurs options de ciblage.
+Par défaut, la liste est une liste noire de cibles qui ne doivent pas être attaquées. Cette liste utilise les noms des créatures, il est donc possible de mettre des animaux sur liste blanche.<np>
+<&turret_chemthrower_recipe>La Chemthrower Turret utilise les capacités de propulsion de fluides du <link;chemical_thrower;eponymous tool;start> pour couvrir les cibles de n'importe quoi, allant de l'eau pour éteindre les flammes au diesel pour les allumer.<np>
+Cette tourelle dispose d'un port de fluide à l'arrière et au bas de la base pour permettre aux tuyaux de s'y connecter. De plus, l'interface possède un bouton sur la gauche qui désactive ou active la veilleuse, enflammant le fluide distribué, à condition qu'il soit inflammable.
+
+§oLes fournisseurs de ce plan ne sont pas responsables des dommages causés à l'utilisateur, aux voisins ou aux divers animaux de la ferme qui pourraient survenir.§r<np>
+<&turret_gun_recipe>La Gun Turret dispose d'une version lourdement modifiée des composants internes du <link;revolver;Revolver's;start> dans un boîtier bien plus grand et imposant. La construction comprend également un chargeur étendu pour permettre un stockage interne accru de munitions.<np>
+Un port pour l'insertion automatique de munitions et l'extraction des douilles usagées est situé à l'arrière et au bas de la base. Cette tourelle peut stocker jusqu'à une pile complète de cartouches et l'interface dispose d'un bouton pour basculer l'expulsion automatique des douilles usagées.
+
+§oNotez que certaines munitions peuvent causer des dommages collatéraux à l'utilisateur ou à ses biens.§r

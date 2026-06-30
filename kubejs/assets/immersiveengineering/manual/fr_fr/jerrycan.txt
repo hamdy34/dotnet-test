@@ -1,0 +1,5 @@
+Jerrycan
+Mieux que des seaux
+<&recipe>Les Jerrycans sont de simples conteneurs métalliques utilisés pour transporter des fluides. Ils peuvent stocker jusqu'à 10 seaux et peuvent verser ce fluide dans le monde ainsi que dans des machines.<br>
+Les Jerrycans ne peuvent pas être utilisés pour ramasser des fluides dans le monde, mais peuvent être remplis à partir de réservoirs tels que <link;storage_barrels;barrels> ou <link;tank;large tanks>.<br>
+De plus, ils peuvent être utilisés pour remplir des objets consommant du fluide comme le <link;mining_drill;Mining Drill;start> en plaçant le jerrycan et l'outil ensemble dans une grille de fabrication.

@@ -1,0 +1,13 @@
+Résine et Duroplast
+C'est fantastique !
+<&resin><link;industrial_fluids;Phenolic Resin;resin_acetaldehyde> est la première étape de la production de produits en plastique.<br>
+Pour produire cette résine, le précurseur <link;industrial_fluids;Acetaldehyde;resin_acetaldehyde> doit être produit en oxydant du <link;industrial_fluids;Ethanol;plant_oil_ethanol> avec une §2Silver Plate§r comme catalyseur.<br>
+Ensuite, ce précurseur doit être combiné avec du <link;industrial_fluids;Creosote Oil;creosote_oil>. Ces deux processus se déroulent dans le <link;refinery;§o§nRefinery§r>.<np>
+<&duroplast>
+Le Duroplast est un plastique synthétique créé à partir de <link;resin_and_duroplast;Phenolic Resin;resin>. Ce nouveau matériau incroyable est rigide, ininflammable et non conducteur, ce qui en fait un excellent isolant en génie électrique.<br>
+La facilité de moulage des résines plastiques permet également de lui donner diverses formes, telles que des plaques et des blocs.<np>
+<&duroplast_sheet>Les objets en Duroplast sont créés en remplissant les <link;metal_press;molds;mold_recipes> appropriés avec de la résine dans le <link;bottling_machine;§o§nBottling §o§nMachine§r>. La machine est capable de conférer suffisamment de chaleur et de pression à l'intérieur de ces moules pour déclencher le durcissement de la résine.<br>
+Les plaques résultantes sont utilisées dans la création de <link;crafting_components;Advanced Electronic Components;elec_components> et <link;crafting_components;Circuit Backplanes;pcb>, où elles servent d'isolants.<np>
+<&duroplast_block>Les blocs solides de Duroplast peuvent être utilisés pour la construction et la décoration, bien que tout le monde n'apprécie pas leur couleur. Plus important encore, ils servent à remplacer la §2Terracotta§r lors de la fabrication de <link;basic_wiring;wire connectors and relays;connector_recipes>, réduisant ainsi la quantité d'argile nécessaire !<np>
+<&fiberboard>Le Fiberboard est fabriqué à partir de <link;sawmill;sawdust;sawdust> compressée, mélangée à de la résine pour créer un bloc dense et comprimé. Il partage ses propriétés avec le bois et peut être utilisé comme substitut aux planches dans la plupart des recettes. Un excellent moyen de recycler ce qui serait autrement des déchets !
+<&empty_shell> Vous pouvez également utiliser la résine pour la création de douilles vides pour le <link;revolver_cartridges;Revolver's cartridges;empty>, ce qui les rend moins chères et plus faciles à produire en masse.

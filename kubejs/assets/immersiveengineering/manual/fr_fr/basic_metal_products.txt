@@ -1,0 +1,10 @@
+Produits Métalliques de Base
+Formes & Couleurs
+<&alloys>Les alliages sont des métaux spécialisés utilisés dans des applications avancées, et peuvent être créés à partir de poudre ou dans des fours d'alliage.<br>
+L'acier est utilisé pour l'ingénierie structurelle et la décoration, l'électrum pour <link;basic_wiring;electrical engineering>, et le constantan pour <link;thermoelectric_generator;thermal engineering>.<np>
+<&plates>Les plaques de métal sont un matériau de fabrication requis pour la création de la plupart des machines et composants.<br>
+Elles sont fabriquées en martelant un lingot avec un Engineer's Hammer ou dans une <link;metal_press;Metal Press>.<np>
+<&rods>Les tiges de métal sont un matériau de fabrication utilisé dans de nombreux composants ou décorations, tels que les échafaudages.<br>
+Elles peuvent être fabriquées à la main ou dans une <link;metal_press;Metal Press>.<np>
+<&wires>Les fils sont la base du transfert d'énergie et sont utilisés dans de nombreux composants électroniques.<br>
+Ils sont fabriqués en coupant une plaque avec des Engineer's Wire Cutters ou dans une <link;metal_press;Metal Press>.

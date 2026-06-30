@@ -1,0 +1,12 @@
+Scierie
+Je vois ce que vous avez fait
+La scierie est un assemblage de machines qui découpe les bûches de bois en planches soigneusement empilées.<br>
+La machine fonctionne en deux étapes : d'abord, la bûche est écorcée, puis la bûche écorcée est découpée à l'aide d'une <link;buzzsaw;sawblade>.<np>
+<&sawdust>Les deux étapes du processus créent de la §2sciure§r, qui est collectée et évacuée par le port à l'avant de la machine.<br>
+Cette sciure peut ensuite être transformée en papier ou en d'autres matériaux utiles, tels que du <link;resin_and_duroplast;Fiberboard;fiberboard>.<np>
+La machine est construite comme indiqué sur la première page et formée en utilisant un §2Engineer's Hammer§r sur le bloc de tôle central.<br>
+L'application d'un signal redstone sur le panneau de contrôle à l'avant arrêtera la machine, ce comportement peut être inversé par le §2Engineer's Screwdriver§r.<br>
+Pour être prêt pour le traitement, vous devrez fabriquer une <link;buzzsaw;sawblade> et l'insérer dans la fente à l'arrière en faisant un clic droit. Accroupissez-vous et faites un clic droit pour retirer la lame de scie.<br>
+Tenter de retirer la lame de scie pendant le fonctionnement causera des blessures. Pour vous assurer que la machine n'est pas en marche, désactivez-la avec de la redstone lorsqu'elle est vide.<br>
+Passer des bûches dans la machine sans lame de scie créera des §2stripped logs§r qui ne seront pas découpées. Ce processus est beaucoup plus rapide que de les écorcer manuellement.<br>
+La lame de scie s'endommagera lors de son utilisation et devra peut-être être remplacée après un certain temps.

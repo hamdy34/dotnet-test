@@ -1,0 +1,7 @@
+Boîte à outils de l'ingénieur
+Le sac à main de l'ingénieur
+La boîte à outils est un conteneur portable simple, utilisé pour stocker tous les essentiels d'un ingénieur ! Survoler les emplacements dans l'inventaire de la boîte à outils vous indique ce qu'ils acceptent.<br>
+'Nourriture' et 'Tout' sont assez explicites, les emplacements 'Câblage' sont destinés aux bobines, connecteurs, transformateurs ou objets similaires.<np>
+'Outils' permet de stocker n'importe quel outil ou arme Vanilla simple, comme les pioches, épées, pelles et arcs. Elle ne peut pas stocker de conteneurs de fluides tels que des seaux ou des jerrycans car ils pourraient déborder, mais elle peut stocker d'autres outils à usage unique comme la longue-vue ou les boussoles.<br>
+N'importe quel outil ou arme d'IE peut être stocké à l'intérieur de la boîte à outils, y compris les gros outils électriques tels que le <link;railgun;Railgun>. Les armures comme le <link;accumulator_backpack;Accumulator Backpack> sont trop volumineuses et ne peuvent pas être stockées.<br>
+S'accroupir et faire un clic droit permet de placer la boîte à outils comme un bloc. Lorsqu'elle est placée, son inventaire reste accessible d'un clic droit. S'accroupir et faire à nouveau un clic droit ramassera la boîte à outils directement vers l'utilisateur.

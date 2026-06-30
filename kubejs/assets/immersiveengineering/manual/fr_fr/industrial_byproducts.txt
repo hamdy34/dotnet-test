@@ -1,0 +1,15 @@
+Sous-produits Industriels
+Cauchemar de Stockage
+La <&sulfur>§lPoudre de Soufre§r est une poudre que l'on trouve couramment dans les <link;mineral_deposits;Mineral Deposits>.<br>
+Elle peut être trouvée occasionnellement en <link;crusher;crushing> le §2Minerai de Lapis-lazuli§r ou le §2Minerai de Charbon§r, et plus fréquemment dans le §2Minerai de Quartz du Nether§r et les §2Bâtons de Blaze§r.<br>
+Elle est particulièrement utile lorsqu'elle est combinée pour former de la poudre à canon ou du <link;industrial_byproducts;Industrial Fertilizer;fertilizer>.<np>
+La <&nitrate>§lPoudre de Nitrate§r (également connue sous le nom de salpêtre) est un mélange de sels alcalins obtenu en traitant du §2Grès§r dans un <link;crusher;Crusher>.<br>
+De la même manière que le soufre, la poudre de nitrate peut être utilisée dans la <link;industrial_byproducts;Industrial Fertilizer;fertilizer>. Elle peut également servir de catalyseur pour la production de <link;industrial_fluids;Biodiesel>.<np>
+Le <&slag>§lLaitier§r est un mélange d'oxydes et de sulfures métalliques courant provenant des <link;crude_blast_furnace;steel production>.<br>
+Le laitier peut être transformé en blocs de construction, incluant le <link;concrete;concrete>, et peut être utilisé pour créer du <link;industrial_byproducts;Industrial Fertilizer;fertilizer>.<np>
+<&fertilizer>
+Le soufre, le laitier et le nitrate constituent en eux-mêmes un léger boost pour la croissance des cultures dans la <link;garden_cloche;Garden Cloche>, mais ne sont pas suffisants pour être utilisés directement sur les cultures.<br>
+L'§2Engrais Industriel§r fournira un boost majeur à la cloche ; il est fabriqué à partir des trois nutriments ci-dessus, plus de l'eau pour les mélanger efficacement.
+<&gunpowder>
+Mélanger du Nitrate, du Soufre et du Charbon de bois permet la création de poudre à canon, un processus bien plus industriel et constant que de la récupérer sur des monstres.<br>
+La poudre à canon peut être utilisée pour fabriquer de la <link;revolver_cartridges;ammunition> et du <link;gunpowder_barrels;explosives> rapidement et à moindre coût.

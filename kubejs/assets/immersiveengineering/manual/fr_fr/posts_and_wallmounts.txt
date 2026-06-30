@@ -1,0 +1,9 @@
+Poteaux & Supports muraux
+Mettez votre HT hors de portée
+<&post_recipes>Les poteaux peuvent être fabriqués à partir de plusieurs matériaux de structure courants, notamment le Bois Traité, l'Acier et l'Aluminium.<br>
+Contrairement aux barrières, ces poteaux ne se connectent pas entre eux, mais peuvent à la place être utilisés pour suspendre des supports muraux, <link;basic_wiring;wires> ou <link;engineered_lighting;lamps>.<np>
+Les poteaux mesurent quatre blocs de haut et ne peuvent donc pas être placés sans un dégagement approprié.<br>
+L'utilisation du Marteau de l'Ingénieur sur les côtés du bloc supérieur attachera un bras au poteau.<br>
+Placer des blocs sous les bras du poteau en bois inversera la position des bras vers le bas.<np>
+<&wallmount_recipes>Les supports muraux sont similaires aux bras de montage des poteaux et peuvent être fabriqués dans les mêmes matériaux.<br>
+Leur point de fixation peut être orienté pour supporter la face supérieure ou inférieure d'un bloc. L'utilisation d'un Marteau de l'Ingénieur fera pivoter le côté du support.

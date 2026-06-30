@@ -1,0 +1,6 @@
+Bouclier à Plaques Lourdes
+Phalange d'une Seule Femme
+<&recipe>Le Bouclier à Plaques Lourdes est une amélioration directe des boucliers en bois habituels auxquels vous pourriez être habitué. De la même manière, ce bouclier bloquera la plupart des dégâts provenant de l'avant, mais sa durabilité a été considérablement augmentée, et il peut être amélioré.<np>
+<&flashbulb>L'amélioration §2Flashbulb§r ajoute une ampoule lumineuse et un écran réflecteur au bouclier. En cas d'attaque, l'appareil produira un flash aveuglant, désorientant toute personne se trouvant devant l'utilisateur.<np>
+<&electric>L'ajout de §2Shock Emitters§r au bouclier vous permet de riposter contre les ennemis qui vous attaquent. Lorsque le bouclier est frappé, il émet une décharge, infligeant des dégâts mineurs à l'agresseur. De plus, il vaporisera les projectiles au lieu de simplement les arrêter.<np>
+<&magnetic>Le §2Magnetic Glove§r sert de moyen simple d'accéder au bouclier en cas de menace. Avec cette amélioration équipée, une simple double pression sur la touche §l<keybind;key.immersiveengineering.magnetEquip>§r vous permettra de récupérer le bouclier de votre inventaire et de le placer dans votre main secondaire.

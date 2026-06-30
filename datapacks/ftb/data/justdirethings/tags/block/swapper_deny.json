@@ -1,0 +1,25 @@
+{
+  "values": [
+    "minecraft:piston_head",
+    "minecraft:moving_piston",
+    "minecraft:bedrock",
+    "minecraft:end_portal_frame",
+    "minecraft:candle_cake",
+    "#minecraft:beds",
+    "#minecraft:portals",
+    "#minecraft:doors",
+    "immersiveengineering:arc_furnace",
+    "immersiveengineering:advanced_blast_furnace",
+    "immersiveengineering:blast_furnace",
+    "immersiveengineering:auto_workbench",
+    "immersiveengineering:bottling_machine",
+    "immersiveengineering:coke_oven",
+    "immersiveengineering:crusher",
+    "immersiveengineering:fermenter",
+    "immersiveengineering:metal_press",
+    "immersiveengineering:mixer",
+    "immersiveengineering:refinery",
+    "immersiveengineering:sawmill",
+    "immersiveengineering:squeezer"
+  ]
+}

@@ -1,0 +1,6 @@
+Pressoir
+Questions pressantes
+Le Pressoir est une structure multibloc qui extrait du jus ou de l'huile à partir de matières organiques à l'aide d'un large piston. La structure est construite comme illustré ci-dessus et formée en utilisant le Marteau de l'Ingénieur sur le baril en bois central, du côté du port de redstone.<br>
+Les objets peuvent être insérés dans le Pressoir via les deux trappes à l'arrière marquées de points bleus. La trappe avec le point orange sert de sortie pour les objets et le bloc situé en dessous sert à la sortie des fluides.<br>
+L'application d'un signal redstone sur le panneau de contrôle à l'avant interrompra le fonctionnement de la machine ; ce comportement peut être inversé à l'aide du Tournevis de l'Ingénieur.<np>
+La liste suivante présente les différents objets pouvant être pressés pour obtenir de l'huile végétale, ainsi que la quantité qu'ils produisent.<&list>

@@ -1,0 +1,19 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  8,
+                            "item":  "minecraft:gravel"
+                        },
+                        {
+                            "count":  1,
+                            "item":  "enderio:grains_of_infinity"
+                        }
+                    ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:suspicious_gravel",
+                             "count":  8
+                         }
+                     ]
+}

@@ -1,0 +1,12 @@
+Crochet d'ingénieur
+Booker, attrape !
+Le Crochet d'ingénieur est un système de préhension motorisé conçu pour s'accrocher aux fils, aux cordes de chanvre ou aux câbles d'acier.<br>
+Grâce à lui, les ingénieurs peuvent rapidement parcourir la longueur d'une ligne électrique pour se déplacer entre les sous-stations ou d'autres sites.<np>
+Maintenez simplement le bouton droit de la souris à proximité d'un fil et vous y serez attaché.<br>
+Le bouton peut être relâché pendant le trajet, mais lâcher le crochet ou s'accroupir vous fera descendre.<br>
+La décélération soudaine causée par une chute de grande hauteur suivie de l'accrochage à un fil §ocauseras§r des dégâts à l'utilisateur.<np>
+La gravité sera suffisante pour se déplacer le long des fils descendants à une vitesse décente, les touches de mouvement standard peuvent être utilisées pour se déplacer le long des fils ascendants.<br>
+Lorsque le crochet atteint une intersection, il continuera dans la direction la plus proche de celle vers laquelle le joueur regarde.<np>
+<&skyhook_slope>En installant un §2Moteur à couple élevé§r, le Crochet a beaucoup plus de facilité à grimper les fils ascendants, réduisant l'impact de la pente sur sa vitesse.<np>
+<&skyhook_insulation>Se déplacer le long de fils sous tension peut être très dangereux pour la santé de l'ingénieur. La §2Poignée isolée§r élimine ce risque, empêchant tout choc électrique lors de l'utilisation du Crochet sur une ligne électrique.<np>
+<&skyhook_mace>Forgés à partir de Netherite, les §2Crochets à impact lourd§r accordent la capacité d'infliger des dégâts considérablement accrus lors d'une attaque en tombant vers un ennemi. De plus, lors d'une attaque réussie sur un ennemi de cette manière, l'utilisateur ne subit aucun dégât de chute en touchant le sol.

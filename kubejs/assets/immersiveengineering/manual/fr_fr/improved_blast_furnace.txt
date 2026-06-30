@@ -1,0 +1,8 @@
+Haut Fourneau Amélioré
+Raffinage Industrialisé
+<&brick_recipe>Le Haut Fourneau Amélioré est une méthode bien plus professionnelle de <link;crude_blast_furnace;creating steel>. Non seulement il permet l'automatisation des entrées et sorties, mais il peut également être équipé de <link;improved_blast_furnace;preheaters;preheater> pour accélérer le processus de raffinage par l'ajout d'air chaud.<br>
+Le four est fabriqué à partir de briques renforcées, un choix de premier ordre pour le premier acier de l'ingénieur en herbe.<np>
+<&multiblock>La structure du four est similaire à celle de son prédécesseur rudimentaire, mais les briques ont été renforcées et un entonnoir a été ajouté au sommet pour acheminer les ressources.<br>
+L'acier sort à l'avant du four, le laitier à l'arrière, et le four exportera automatiquement vers les inventaires connectés ou les <link;conveyor_belts;conveyor belts>. Le fer et le Coal Coke sont introduits par le haut.<br>
+Les ports sur les côtés du four sont utilisés pour l'ajout d'air chauffé via l'action de dispositifs de chauffage décrits dans les pages suivantes.<np>
+<&preheater>Les Blast Furnace Preheaters sont utilisés pour chauffer l'air puis l'insuffler dans le four afin d'accélérer le processus de raffinage du fer. Chaque four peut avoir jusqu'à deux préchauffeurs connectés aux ports de chaque côté, et chaque préchauffeur nécessite <config;i;machines.preheater_consumption> Flux/t pour fonctionner.

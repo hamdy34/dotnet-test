@@ -1,0 +1,12 @@
+---
+navigation:
+  title: "경로 AOE 부적"
+  icon: "mysticalagriculture:pathing_aoe_iv_augment"
+  position: 304
+  parent: mysticalagriculture:augments.md
+---
+
+# 경로 AOE 부적
+
+경로 AOE 부적은 삽이 잔디 길을 생성하는 영역을 최대 9x9까지 늘리는 삽 부적입니다. AOE는 삽을 사용하는 동안 몰래 작동됩니다.
+

@@ -1,0 +1,4 @@
+Table de fabrication de l'ingénieur
+Pour divers projets
+La table de fabrication de l'ingénieur est une simple amélioration de la table de fabrication normale. En plus de son plateau en bois traité, elle conserve les ingrédients à l'intérieur de la grille de fabrication lorsqu'elle est fermée.
+La table dispose également d'un petit tiroir pour stocker certains de vos composants de fabrication.

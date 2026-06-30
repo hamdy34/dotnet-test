@@ -1,0 +1,4 @@
+Fil de fer barbelé
+Tranche-œuf géant
+<&recipe>Le Fil de fer barbelé est un fil muni de pièces métalliques aiguisées. Il ralentira et blessera toute entité tentant de le traverser.
+Le Fil de fer barbelé ne peut être retiré qu'avec des Pinces coupantes, toute autre tentative infligera des dégâts au joueur. De plus, des câbles BT peuvent y être connectés pour électrifier le fil de fer barbelé et infliger des dégâts supplémentaires.

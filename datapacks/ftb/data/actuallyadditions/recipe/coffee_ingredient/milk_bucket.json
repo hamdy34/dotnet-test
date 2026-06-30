@@ -1,0 +1,15 @@
+{
+  "type": "actuallyadditions:coffee_ingredient",
+  "extra_text": "jei.actuallyadditions.coffee.extra.milk",
+  "effects": [
+    {
+      "amplifier": 0,
+      "duration": 5,
+      "effect": "minecraft:resistance"
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:milk_bucket"
+  },
+  "max_amplifier": 0
+}

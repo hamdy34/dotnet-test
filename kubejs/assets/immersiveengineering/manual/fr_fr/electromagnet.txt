@@ -1,0 +1,5 @@
+Électroaimant
+Attraction surnaturelle
+<&recipe>L'Électroaimant est une large bobine de fil enroulée autour d'un noyau ferromagnétique qui crée un champ magnétique lorsqu'elle est alimentée par un courant électrique.<br>
+Ce champ attire les objets à proximité vers l'aimant, ce qui est idéal pour la collecte de butin dans les fermes (à mobs).<br>
+L'aimant fonctionne en continu tant qu'il est alimenté en énergie, mais peut être désactivé avec un signal redstone. Ce comportement peut être inversé en s'accroupissant et en faisant un clic droit avec un Engineer's Screwdriver.

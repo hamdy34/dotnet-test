@@ -1,0 +1,4 @@
+#The number of ticks since the players last rest needed to reset the players insomnia
+# Default: 20
+# Range: 0 ~ 24000
+insomniaValue = 20

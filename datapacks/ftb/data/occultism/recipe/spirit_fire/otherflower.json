@@ -1,0 +1,10 @@
+{
+  "type": "occultism:spirit_fire",
+  "ingredient": {
+    "tag": "c:non_other_flowers"
+  },
+  "result": {
+    "count": 1,
+    "id": "occultism:otherflower"
+  }
+}

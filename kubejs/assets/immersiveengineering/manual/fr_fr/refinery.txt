@@ -1,0 +1,8 @@
+Raffinerie
+Mélange de fluides !
+<&multiblock>De nombreux processus nécessitent l'ajout d'un catalyseur. La raffinerie fait passer ses fluides d'entrée à travers un mélangeur et un catalyseur en même temps, produisant de nouveaux résultats à partir d'une ou deux entrées.<br>
+Pour former la machine, construisez-la comme illustré et faites un clic droit sur le Heavy Engineering Block de la couche intermédiaire.<br>
+Les fluides entrent par les deux ports de chaque côté du bloc et sortent par le port marqué en orange à l'avant. L'utilisation de seaux pour interagir avec les réservoirs de la raffinerie est également possible.<br>
+L'application d'un signal redstone sur le panneau de contrôle à l'avant arrêtera le processus de la machine ; ce comportement peut être inversé à l'aide de l'Engineer's Screwdriver.<br>
+La plupart des processus de raffinage nécessitent l'ajout d'un catalyseur pour permettre la réaction. Ce catalyseur n'est pas consommé, mais le processus ne fonctionnera pas sans lui. Les catalyseurs ne peuvent pas, et n'ont pas besoin d'être insérés automatiquement.<br>
+Les fluides les plus importants fabriqués avec la raffinerie sont le <link;industrial_fluids;Biodiesel;biodiesel> et le <link;industrial_fluids;Phenolic Resin;resin_acetaldehyde>.

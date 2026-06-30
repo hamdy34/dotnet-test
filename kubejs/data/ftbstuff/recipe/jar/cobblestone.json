@@ -1,0 +1,16 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  1,
+                            "tag":  "c:cobblestones"
+                        }
+                    ],
+    "output_fluids":  [
+                          {
+                              "id":  "minecraft:lava",
+                              "amount":  1000
+                          }
+                      ],
+    "temperature":  "hot"
+}

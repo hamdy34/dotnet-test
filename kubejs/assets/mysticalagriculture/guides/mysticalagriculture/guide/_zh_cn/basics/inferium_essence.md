@@ -1,0 +1,11 @@
+---
+navigation:
+  title: "下级精华"
+  icon: "mysticalagriculture:inferium_essence"
+  parent: mysticalagriculture:basics.md
+---
+
+# 下级精华
+
+下级精华是神秘农业中两种基础材料中的一种. 它被用在这个模组中的几乎所有物品的合成中. 你**通常**可以通过杀死敌对或中立生物, 在地下开采, 或是种植来获得下级精华.
+

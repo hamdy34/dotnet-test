@@ -1,0 +1,7 @@
+Plans de l'Ingénieur
+Retour à la planche à dessin
+Les pages suivantes présentent tous les Plans de l'Ingénieur pouvant être fabriqués par des moyens normaux. D'autres Plans spécialisés peuvent être acquis auprès de villageois ou trouvés dans le monde.<br>
+Tous ces plans, y compris les plans spécialisés, peuvent être utilisés dans un <link;engineers_workbench;Engineer's Workbench> pour fabriquer les objets qu'ils décrivent.
+<&molds_components>
+<&banners_signs>
+<&projectiles>

@@ -1,0 +1,7 @@
+Portes & Trappes
+Vitrifié le 15/06/1961
+<&treated_wood>Les Portes et Trappes en Bois Traité n'ont rien de spécial, elles sont simplement une version plus élégante de la porte en bois standard.<br>
+Elles sont fabriquées avec des planches de bois traité et existent en variantes avec cadre en acier ou entièrement en bois.
+<&steel>Les Portes et Trappes en Acier sont une variante plus sécurisée des portes en fer, adaptées à une utilisation dans des installations de haute sécurité.<br>
+Contrairement aux portes en fer, elles répondent aux procédures d'ouverture normales au lieu de s'ouvrir uniquement lorsqu'un signal redstone est appliqué.<br>
+Lorsqu'un signal redstone est appliqué, un mécanisme de verrouillage s'active et la porte ne peut plus être ouverte tant que le signal n'est pas désactivé.

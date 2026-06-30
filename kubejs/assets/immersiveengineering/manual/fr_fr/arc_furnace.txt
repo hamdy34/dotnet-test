@@ -1,0 +1,17 @@
+Four à arc
+Pas un réacteur
+Le Four à arc est une machine massive utilisée pour allier rapidement des métaux et fondre des minerais. Il se compose de supports et d'une cuve en acier et en briques réfractaires surmontée d'électrodes pour chauffer la cuve.<np>
+Les fours à arc peuvent fondre des lots de nombreux objets à la fois, mais sont à peine plus rapides que leurs <link;improved_blast_furnace;simpler sisters> au prix de plus grandes quantités d'énergie. Ainsi, ils excellent en vitesse pour les grosses commandes.<br>
+En conséquence de l'augmentation de la vitesse d'un ordre de grandeur grâce à la fusion parallèle, le Four à arc est une machine complexe qui nécessite un entretien manuel sous la forme du remplacement des électrodes. Cet entretien ne peut pas être effectué automatiquement.<np>
+Une fois que les électrodes ont été utilisées pendant environ quatre jours continus de fusion, elles se dégradent suffisamment pour se briser.<br>
+Pour former la structure, assemblez-la comme indiqué sur la première page, puis cliquez sur le chaudron avec un Engineer's Hammer.<br>
+L'énergie est injectée par les trois connecteurs à l'arrière, et alimenter le panneau de contrôle à l'avant avec un signal de redstone éteindra la machine.<br>
+Les sorties sont récupérées dans le bassin à l'avant de la structure, le laitier (slag) par le port au centre à l'arrière. Le Four à arc poussera automatiquement les sorties et le laitier vers les réceptacles connectés.<br>
+Faire un clic droit sur le panneau, le chaudron ou la cuve ouvrira l'interface.<np>
+§lInterface :§r
+Les trois emplacements en haut sont pour les <link;coke_and_graphite;Graphite Electrodes;shaping>.<br>
+Les douze emplacements sur la gauche sont les emplacements d'entrée pour les métaux et les minerais. Chaque emplacement possède une barre de température à côté, représentant la progression de la fusion.<br>
+Le bouton en haut à gauche de l'écran permet de choisir si les objets sont répartis dans le four à arc ou concentrés en un seul point de la cuve.<br>
+Les quatre emplacements sur la droite sont pour les "additifs", différents matériaux ajoutés au métal en fusion pendant le processus de fabrication. Un exemple serait l'ajout de Coke Dust au fer en fusion afin de créer de l'acier (Steel).<br>
+Les entrées et les additifs sont insérés par les deux trappes au sommet de la structure, les entrées à gauche et les additifs à droite des électrodes.<br>
+Les sept emplacements en bas sont six emplacements de sortie et un emplacement pour le laitier (slag), en bas à droite.

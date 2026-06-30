@@ -1,0 +1,8 @@
+Haut Fourneau Rudimentaire
+Acier Simple
+<&block>Le Haut Fourneau Rudimentaire est utilisé pour augmenter la teneur en carbone du fer, le transformant ainsi en TD LINK STEEL.<br>
+ Pour y parvenir, seuls des combustibles purs et riches en carbone peuvent être utilisés, tels que le <link;coke_oven;coal coke and charcoal>.<np>
+<&outputs>En plus de l'acier, le fourneau créera également du <link;industrial_byproducts;slag;slag>, que vous devez retirer sous peine de voir le fourneau cesser de fonctionner.<br>
+Bien qu'il s'agisse techniquement d'un déchet, il existe plusieurs façons de le recycler, comme le <link;slag_products;brick construction> ou le <link;concrete;concrete>.<np>
+<&multiblock>Pour former un Haut Fourneau, disposez 27 briques de haut fourneau en un cube de 3x3x3, puis faites un clic droit sur le bloc central de l'une des faces avec un Marteau de l'Ingénieur.<np>
+Le Haut Fourneau Rudimentaire n'est §lpas§r automatisable. Toutes les entrées et sorties doivent être gérées manuellement via son interface. Si vous souhaitez automatiser la création d'acier, vous devriez envisager de construire un <link;improved_blast_furnace;Improved Blast Furnace;>.

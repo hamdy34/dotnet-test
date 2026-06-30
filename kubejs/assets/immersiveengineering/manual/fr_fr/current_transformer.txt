@@ -1,0 +1,5 @@
+Transformateur de Courant
+88 Flux par heure !
+Le Transformateur de Courant est un appareil de mesure pour le débit électrique.<br>
+Il peut être branché sur n'importe quelle ligne électrique et suivra l'énergie transférée à travers celle-ci, affichant une moyenne de Flux/t lors d'un clic droit.<br>
+Si un comparateur est attaché à la base du transformateur, il émettra un signal de 0 à 15 selon le taux de remplissage par rapport à la capacité de transfert maximale du câble.

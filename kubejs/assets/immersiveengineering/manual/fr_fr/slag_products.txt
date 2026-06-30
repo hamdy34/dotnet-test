@@ -1,0 +1,9 @@
+Produits du Laitier
+Zéro Déchet !
+<&slag_gravel>Le §2Gravier de Laitier§r est du laitier qui a été broyé dans le <link;crusher;Crusher> en un grain rugueux. Comme pour les autres graviers, il peut être concassé davantage pour obtenir du sable.<br>
+De plus, le gravier de laitier contient des nutriments précieux pour la flore aquatique. Les plantes gorgées d'eau placées sur du gravier de laitier poussent plus vite que lorsqu'elles sont cultivées sur d'autres blocs.<np>
+<&slag_glass>Refondre le laitier dans un §2Four§r le vitrifie en un §2verre de laitier§r dur et sombre.<br>
+Ce verre réduit l'intensité de la lumière qui le traverse et peut être utilisé comme isolant dans les <link;basic_wiring;high-voltage relays;connector_recipes>.
+<&slag_bricks>Les §2Briques de Laitier§r sont du laitier façonné en briques similaires à bien des égards aux briques d'argile.<br>
+La céramique des briques de laitier est plus résistante que celle des briques d'argile standard, capable de mieux résister aux explosions.<br>
+Les Briques de Laitier peuvent être transformées en escaliers, dalles et murs, qui possèdent un petit rebord de brique cuite sur la couche supérieure.

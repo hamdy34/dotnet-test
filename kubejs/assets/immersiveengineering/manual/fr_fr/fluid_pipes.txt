@@ -1,0 +1,8 @@
+Tuyaux de Fluide
+Plombier Professionnel
+<&pipe_recipe>Les Tuyaux de Fluide sont une méthode polyvalente et efficace pour transporter des fluides, contrairement au déplacement massif de réservoirs ou de seaux.<br>
+Les systèmes de tuyaux distribueront tout fluide entrant vers les sorties disponibles, réparti équitablement.<br>
+À basse pression, les systèmes de tuyaux transportent le fluide lentement. Les fluides pressurisés sortant d'une <link;fluid_pump;Fluid Pump> ou de certaines grandes machines peuvent se déplacer beaucoup plus rapidement.<br>
+Les Tuyaux de Fluide se relieront à toutes les connexions possibles lorsqu'ils sont placés. Le Engineer's Hammer peut être utilisé pour connecter ou déconnecter les tuyaux de fluide entre eux et des réservoirs.<br>
+Les Tuyaux de Fluide peuvent être recouverts d'échafaudages (scaffolding). Placer l'échafaudage sur un tuyau le recouvrira, et s'accroupir + faire un clic droit sur le tuyau le retirera.<br>
+De plus, faire un clic droit sur un tuyau avec n'importe quelle teinture le colorera pour permettre une identification facile. Les tuyaux colorés ne se connectent pas aux tuyaux nouvellement placés.

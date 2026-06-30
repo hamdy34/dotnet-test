@@ -1,0 +1,15 @@
+Composants de Fabrication
+Pièces Intégrales
+De nombreuses machines et outils sont construits à partir de divers sous-composants. Certains d'entre eux devront être utilisés régulièrement, comme détaillé dans les pages suivantes.<br>
+Les composants simples peuvent être fabriqués dans une §2Table de craft§r ordinaire, mais les composants avancés nécessiteront l'aide d'un <link;engineers_workbench;specialized workbench>.<np>
+<&basic_engineering>Le §2Bloc d'Ingénierie de Base§r sert de matériau de construction principal pour une grande variété de machines. Il constitue le châssis central de la plupart des machines à bloc unique, particulièrement pour le transport et le stockage d'énergie.
+<&mech_components>Les §2Composants Mécaniques en Fer§r et §2en Acier§r sont essentiels à la majorité des machines, petites ou grandes.<br>
+Comme vous serez amené à créer ces composants de plus en plus fréquemment, il peut être judicieux de préparer un <link;blueprints;Blueprint> pour ceux-ci.<np>
+<&component_blueprint>
+Les instructions pour préparer ce plan se trouvent <link;blueprints;here;molds_components>.<br>
+L'utilisation de ce plan dans un <link;engineers_workbench;Engineer's Workbench> vous permettra de construire des composants simples à un coût réduit.<br>
+Les plans sont nécessaires pour les composants plus avancés, comme détaillé dans les pages suivantes.<np>
+<&elec_components>Les §2Composants Électroniques§r sont plus complexes et moins couramment utilisés que leurs homologues mécaniques. Ils sont cependant essentiels pour tout appareil disposant d'un niveau de contrôle étendu, tel que le <link;item_batcher;Item Batcher> ou le <link;turrets;Turrets>.<np>
+<&light_bulbs>Les §2Ampoules à Incandescence§r sont composées d'un filament de bambou ou de papier carbonisé qui produit de la lumière et de la chaleur lorsqu'il est alimenté. Elles sont principalement utilisées pour fabriquer des <link;engineered_lighting;lanterns;electric_lantern>.<np>
+<&tubes>Un autre composant, bien que moins fréquemment utilisé, est le §2Tube à Vide§r. Ces ingrédients coûteux sont utilisés dans les <link;engineers_circuit_workbench;Logic Circuits> et les machines électroniques plus complexes.<np>
+<&pcb>Le §2Fond de Panier de Circuit§r est une carte de cuivre isolée sur laquelle divers composants peuvent être soudés afin de créer des <link;engineers_circuit_workbench;Logic Circuits>.

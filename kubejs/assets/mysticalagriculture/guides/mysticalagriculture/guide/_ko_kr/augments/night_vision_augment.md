@@ -1,0 +1,12 @@
+---
+navigation:
+  title: "야간 투시 부적"
+  icon: "mysticalagriculture:night_vision_augment"
+  position: 302
+  parent: mysticalagriculture:augments.md
+---
+
+# 야간 투시 부적
+
+야간 투시 부적은 착용한 사람이 갑옷을 착용하는 동안 야간 투시를 부여하는 투구 부적입니다.
+

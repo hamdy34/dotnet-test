@@ -1,0 +1,19 @@
+{
+    "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "redacted"
+        }
+    ],
+    "type": "bigreactors:fluidizersolid",
+    "ingredient": {
+      "count": 1,
+      "ingredient": {
+        "item": "bigreactors:yellorium_block"
+      }
+    },
+    "result": {
+      "amount": 9000,
+      "id": "bigreactors:yellorium"
+    }
+}

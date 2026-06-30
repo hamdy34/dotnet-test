@@ -1,0 +1,8 @@
+Câblage Redstone
+Prise de contrôle de l'intégration
+<&coil>§2Les fils de Redstone§r sont de l'aluminium recouvert de poudre de redstone. Les câbles qui en résultent offrent un moyen facile de transférer des signaux redstone sur de longues distances sans perte de puissance du signal.<np>
+<&connector>§2Les connecteurs de fils de Redstone§r fonctionnent à la fois comme relais et connecteurs : les connecteurs d'entrée et de sortie peuvent avoir plusieurs fils connectés.<br>
+Avec le Tournevis de l'Ingénieur, les connecteurs peuvent être configurés entre le mode entrée et sortie et réglés sur l'une des 16 fréquences colorées.<np>
+<&bundled>§2Les connecteurs d'interface Redstone§r sont conçus pour être attachés à d'autres blocs pouvant utiliser les signaux redstone colorés.<br>
+Le connecteur d'interface est inerte et ne possède pas de couleur, ni d'état d'entrée ou de sortie. Au lieu de cela, il fournit une interface pour les 16 couleurs de la grille redstone.<br>
+Des blocs tels que le <link;item_batcher;Item Batcher> et le <link;logic_unit;Logic Unit> utilisent cela pour émettre sur de nombreux signaux en fonction de seuils internes.

@@ -1,0 +1,11 @@
+Interface de Machine
+Interroger Rapidement des Conditions Complexes
+<&recipe>Avec la complexité croissante des machines multiblocs, le suivi de leurs besoins devient assez complexe.<br>
+Bien que le <link;redstone_probe;comparator signals> puisse donner un aperçu de la quantité d'objets à l'intérieur, seule l'Interface de Machine peut fournir une évaluation plus détaillée et envoyer des signaux redstone.<np>
+Lorsqu'elle est placée contre la surface de contrôle redstone d'un multibloc, l'ouverture de l'interface graphique permettra de configurer une variété de conditions selon lesquelles un signal sera émis.<br>
+Appuyez sur le bouton "Ajouter une Condition" pour ajouter une nouvelle ligne. Dans cette ligne, le premier bouton sert à la supprimer, le second sert à configurer la couleur du signal à émettre.<np>
+Ceci est suivi de deux menus déroulants, l'un pour sélectionner le type de vérification (tel que "Machine Active", "Entrée d'Objets", "Sortie de Fluide") et l'autre pour sélectionner la condition.<br>
+La plupart des vérifications supportent la "Sortie Comparateur" pour une force de signal proportionnelle aux objets/fluides/énergie stockés. Il existe également diverses options de type vrai ou faux, telles que "Rempli à 75%" ou "Vide".<np>
+Dès qu'une condition est remplie, l'Interface de Machine émettra le signal correspondant sur le canal de couleur configuré vers tout <link;redstone_wiring;Redstone Interface Connector;bundled> connecté.<br>
+En plus d'émettre, l'Interface de Machine peut également recevoir un signal redstone et le transmettre à la machine connectée. La couleur du signal pour cela est configurée en bas à droite de l'interface graphique.<np>
+Cela permet d'utiliser le <link;logic_unit;Logic Unit> pour évaluer les signaux provenant de la machine et d'en renvoyer un pour l'activer ou la désactiver !

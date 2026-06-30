@@ -1,0 +1,9 @@
+Doseur d'objets
+Tous ensemble, maintenant
+<&recipe>Le Doseur d'objets (Item Batcher) est conçu pour collecter un ensemble d'objets depuis un convoyeur d'entrée avant de les envoyer plus loin, afin de transférer des lots de taille optimisée vers les machines.<np>
+En §2mode lot (batched)§r, les objets entrants seront acceptés dans l'inventaire directement sous les filtres, et le lot collecté ne sera envoyé que lorsque tous les filtres seront satisfaits.<br>
+Une fois que le mode de sortie de l'appareil a été réglé sur §2mode individuel (single)§r, tout objet satisfaisant sa quantité filtrée sera envoyé à la place.<br>
+Les connexions sous les filtres du tampon définissent la couleur cible du <link;redstone_wiring;redstone wire> via les <link;redstone_wiring;Redstone Interface Connectors;bundled> attachés.<br>
+Lorsque chaque filtre individuel est satisfait, un signal fort sur sa couleur configurée sera envoyé via le connecteur.<br>
+Notez que si plusieurs filtres utilisent la même couleur, tous doivent être satisfaits pour qu'un signal soit émis.<br>
+Ces signaux peuvent être utilisés pour configurer des machines, des affichages ou d'autres mécanismes afin de contrôler des usines entières.

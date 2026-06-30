@@ -1,0 +1,7 @@
+Panneaux d'Avertissement
+Attention : Excès de signalisation en vue
+Les usines et les entrepôts sont souvent encrassés, dangereux et saturés de produits chimiques et de vapeur obscurcissant l'air.<br>
+Si la réduction de ces risques est inefficace, les nouveaux Panneaux d'Avertissement standardisés peuvent être utilisés à la place pour signaler les dangers.
+<&sign_recipes>Les panneaux d'avertissement peuvent être fabriqués à partir de n'importe quelle plaque de support en métal et de teinture jaune, afin de s'assurer que les panneaux soient bien visibles sur les sols sombres des usines.<br>
+Les panneaux peuvent être placés sur n'importe quelle face verticale d'un bloc, mais ne peuvent pas être placés sur le sol ou au plafond.<br>
+L'utilisation d'une §2poche d'encre luisante§r sur un panneau placé lui permettra d'émettre une faible quantité de lumière.

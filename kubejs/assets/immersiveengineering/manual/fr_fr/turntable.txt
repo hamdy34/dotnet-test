@@ -1,0 +1,6 @@
+Plaque tournante
+Je n'arrive pas à suivre
+<&recipe>La Plaque tournante fera pivoter les blocs placés contre sa face avant selon différents angles.<br>
+Tenir un Marteau de l'Ingénieur tout en regardant un côté de la machine affiche sa face rotative ainsi que la direction de rotation associée au côté ciblé.<br>
+La direction de rotation est réglée individuellement pour chacun des 4 côtés autour de l'axe de rotation, permettant des rotations de ±90° ou 180°, selon le côté qui reçoit le signal redstone.<br>
+Faire un clic droit avec le Marteau la réorientera, tandis que s'accroupir en le faisant fera défiler les directions de rotation de la Plaque tournante.

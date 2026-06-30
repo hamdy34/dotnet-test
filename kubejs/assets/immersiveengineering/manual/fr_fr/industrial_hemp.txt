@@ -1,0 +1,8 @@
+Chanvre Industriel
+530 fabric it
+<&items>Le Chanvre Industriel est une plante très polyvalente, avec des utilisations tout au long de la profession d'ingénieur. Ses graines peuvent être utilisées pour la création d'HUILE VÉGÉTALE (plant oil), utilisée dans <link;industrial_fluids;Biodiesel;biodiesel> ; ses fibres peuvent être utilisées pour la création d'une toile robuste, le §2Tissu Résistant§r (Tough Fabric).<br>
+Les graines peuvent être obtenues en cassant des hautes herbes et par d'autres méthodes de collecte similaires.<np>
+<&fabric_recipe>Le Tissu Résistant est un tissage résilient fabriqué à partir de fibres de chanvre. Une fois imperméabilisé, il peut être utilisé comme <link;this;Ersatz Leather;ersatz_leather>.<br>
+Seul, il peut être utilisé pour créer <link;kinetic_generators;Improved Windmills;sail_recipe> ainsi que <link;balloon;Balloons;start>, <link;hempcrete;Hempcrete>, et <link;this;Jump Cushions;cushion_recipe>.<np>
+<&cushion_recipe>Les Coussins de Chute (Jump Cushions) sont des blocs simples créés à partir de tissu résistant et gonflés d'air. Ils sont capables d'absorber les impacts et d'empêcher les dégâts de chute lors de l'atterrissage, mais, contrairement aux blocs de slime, ils ne font pas rebondir l'objet.<np>
+<&ersatz_leather>Le Cuir de Substitution (Ersatz leather) est créé en saturant du tissu résistant avec de l'huile végétale ou de la cire d'abeille. Ce tissu imperméabilisé peut être utilisé pour de nombreuses choses où le cuir animal normal est utilisé, comme <link;conveyor_belts;Conveyor Belts>.

@@ -1,0 +1,16 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  1,
+                            "tag":  "c:raw_materials/emerald"
+                        }
+                    ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:emerald",
+                             "count":  1
+                         }
+                     ],
+    "temperature":  "hot"
+}

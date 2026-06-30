@@ -1,0 +1,25 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  1,
+                            "tag":  "minecraft:sand"
+                        },
+                        {
+                            "count":  1,
+                            "tag":  "c:gravels"
+                        }
+                    ],
+    "input_fluids":  [
+                         {
+                             "amount":  1000,
+                             "fluid":  "minecraft:water"
+                         }
+                     ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:clay_ball",
+                             "count":  32
+                         }
+                     ]
+}

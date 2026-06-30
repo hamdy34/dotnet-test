@@ -1,0 +1,9 @@
+Assembleur
+Assemblage requis
+<&multiblock>L'Assembleur est une machine complexe capable de fabriquer des objets, de manière similaire à un joueur.<br>
+Pour former la structure, construisez-la comme démontré ci-dessus et utilisez le Marteau de l'Ingénieur sur le convoyeur orienté vers l'intérieur.<np>
+L'Assembleur permet de stocker jusqu'à 3 recettes qui seront exécutées dans l'ordre. Les sorties des recettes précédentes peuvent être utilisées comme entrées pour les recettes suivantes.<br>
+Les 3 grilles de fabrication stockent les recettes, et les 18 emplacements en dessous constituent l'inventaire pour les matériaux.<br>
+Le côté d'entrée, en plus d'une entrée d'objets, dispose également d'une entrée de fluide pour remplir les trois réservoirs internes de la machine.<br>
+Le fluide contenu dans ces réservoirs peut être utilisé pour remplacer les contenants de fluide comme les seaux d'eau dans les recettes. Les recettes utilisant des fluides sont spécifiées par les mêmes seaux que dans la table de craft.<br>
+L'énergie de la machine est injectée par la prise sur le bloc central supérieur, et le contrôle par redstone peut se faire via les deux ports sur les côtés de la machine.

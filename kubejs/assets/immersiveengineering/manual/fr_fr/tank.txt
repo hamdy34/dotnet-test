@@ -1,0 +1,9 @@
+Réservoir
+Plein à craquer !
+Le Réservoir est un multibloc qui offre un espace pour de grandes quantités de fluide.<br>
+Il peut stocker jusqu'à 512 seaux de n'importe quel fluide, qui peut être acheminé via le port supérieur ou inférieur.<np>
+La structure peut être construite à partir de n'importe quel Sheetmetal, elle n'est pas limitée à l'utilisation du fer.<br>
+Les fluides ne peuvent être extraits que depuis le bloc central inférieur.<br>
+L'application d'un signal redstone sur le bloc central inférieur fera en sorte que le réservoir éjecte automatiquement son contenu ; un comparateur placé à cet endroit émettra un signal redstone proportionnel au niveau de remplissage du réservoir.<np>
+Fixer le comparateur sur l'une des 4 couches supérieures produit un signal proportionnel à la hauteur du comparateur.<br>
+Par exemple, un comparateur fixé à la deuxième couche d'un réservoir n'émettrait aucun signal tant que le réservoir n'est pas rempli au 1/4, et aurait une force de signal de 15 si le réservoir est à moitié plein ou plus.

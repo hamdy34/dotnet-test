@@ -1,0 +1,19 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  1,
+                            "item":  "minecraft:sand"
+                        },
+                        {
+                            "count":  1,
+                            "item":  "minecraft:bone_meal"
+                        }
+                    ],
+    "output_items":  [
+                         {
+                             "id":  "utilitarian:snad",
+                             "count":  1
+                         }
+                     ]
+}

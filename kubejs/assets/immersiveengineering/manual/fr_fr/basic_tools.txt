@@ -1,0 +1,12 @@
+Outils de base
+Marteau & §mFaucille§r Tournevis
+<&engineers_hammer>Les Marteaux de l'Ingénieur sont l'un des outils les plus importants de la boîte à outils de l'ingénieur.<br>
+Ils peuvent être utilisés pour configurer et former des machines, ainsi que pour broyer des minerais.<np>
+<&wirecutters>Les §lPinces Coupantes de l'Ingénieur§r sont utilisées pour retirer tous les câbles connectés à un bloc par un simple clic droit.<br>
+Les pinces coupantes peuvent également retirer les câbles tendus entre des poteaux lors de leur utilisation.<np>
+<&screwdriver>Les Tournevis de l'Ingénieur sont un autre objet courant dans les boîtes à outils.<br>
+Ils sont utilisés pour la configuration précise de certaines pièces de machinerie.<np>
+<&multimeter>Les §lMultimètres§r sont utilisés pour mesurer les connexions.<br>
+Le pointer vers n'importe quel stockage d'énergie ou faire un clic droit dessus affichera son stockage actuel.<br>
+Accroupi+clic droit sur deux connecteurs permet de calculer la perte moyenne entre eux.<br>
+Les multimètres peuvent également être utilisés pour lire les niveaux de redstone de blocs tels que les connecteurs de redstone et la poudre de redstone.

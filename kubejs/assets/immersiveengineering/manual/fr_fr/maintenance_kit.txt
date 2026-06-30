@@ -1,0 +1,8 @@
+Kit de maintenance
+Réparations en déplacement
+<&recipe>Parmi les Ingénieurs qui parcourent le monde ou passent une grande partie de leur temps dans les mines, un problème se cristallise.
+Leurs outils nécessitent un entretien constant et transporter un établi entier n'est pas viable.<br>
+Heureusement, un kit de maintenance peut effectuer la plupart des réparations mineures et des reconfigurations.<np>
+Ensemble d'outils enveloppé dans un tissu de chanvre robuste, le kit de maintenance vous permet de personnaliser vos outils de la même manière que l'<link;engineers_workbench;Engineer's Workbench>.<br>
+Vous n'aurez plus besoin de remonter à la surface pour changer la tête de votre Mining Drill ou de retourner à votre atelier pour configurer vos Ear Defenders.<br>
+Tout cela peut désormais être effectué en déplacement grâce au Kit de maintenance !

@@ -1,0 +1,15 @@
+{
+    "type":  "ftbstuff:jar",
+    "input_items":  [
+                        {
+                            "count":  64,
+                            "tag":  "minecraft:saplings"
+                        }
+                    ],
+    "output_items":  [
+                         {
+                             "id":  "minecraft:dirt",
+                             "count":  8
+                         }
+                     ]
+}
