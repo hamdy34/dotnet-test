@@ -592,6 +592,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-06-23 18:14:20 +0000",
+      "golden_apple": "2026-06-30 19:20:12 +0000",
       "cooked_cod": "2026-06-21 18:58:06 +0000",
       "sweet_berries": "2026-06-23 18:27:35 +0000",
       "cooked_salmon": "2026-06-23 09:39:05 +0000",
@@ -988,16 +989,17 @@
     "criteria": {
       "minecraft:blaze": "2026-06-23 12:09:43 +0000",
       "minecraft:skeleton": "2026-06-23 12:15:09 +0000",
-      "minecraft:piglin": "2026-06-23 11:40:23 +0000",
-      "minecraft:guardian": "2026-06-23 08:39:35 +0000",
       "minecraft:phantom": "2026-06-22 18:29:32 +0000",
       "minecraft:zombified_piglin": "2026-06-23 12:06:14 +0000",
-      "minecraft:spider": "2026-06-24 12:38:32 +0000",
-      "minecraft:vex": "2026-06-23 08:31:27 +0000",
       "minecraft:wither_skeleton": "2026-06-23 12:10:57 +0000",
       "minecraft:bogged": "2026-06-23 08:34:16 +0000",
-      "minecraft:evoker": "2026-06-23 08:29:49 +0000",
-      "minecraft:hoglin": "2026-06-23 11:40:38 +0000"
+      "minecraft:hoglin": "2026-06-23 11:40:38 +0000",
+      "minecraft:piglin": "2026-06-23 11:40:23 +0000",
+      "minecraft:guardian": "2026-06-23 08:39:35 +0000",
+      "minecraft:magma_cube": "2026-06-30 18:51:03 +0000",
+      "minecraft:spider": "2026-06-24 12:38:32 +0000",
+      "minecraft:vex": "2026-06-23 08:31:27 +0000",
+      "minecraft:evoker": "2026-06-23 08:29:49 +0000"
     },
     "done": false
   },
@@ -1280,6 +1282,121 @@
   "integrateddynamics:network_foundations/networks_logic": {
     "criteria": {
       "criteria_0": "2026-06-24 12:40:38 +0000"
+    },
+    "done": true
+  },
+  "jumbofurnace:upgrade_jumbo_furnace": {
+    "criteria": {
+      "upgrade_jumbo_furnace": "2026-06-30 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "jumbofurnace:fully_upgrade_jumbo_furnace": {
+    "criteria": {
+      "fully_upgrade_jumbo_furnace": "2026-06-30 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2026-06-30 18:16:59 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2026-06-30 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2026-06-30 18:17:36 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2026-06-30 18:17:36 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2026-06-30 18:19:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/ash_brick": {
+    "criteria": {
+      "has_tag_c_ash_1": "2026-06-30 18:39:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2026-06-30 18:43:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2026-06-30 18:46:53 +0000"
+    },
+    "done": true
+  },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2026-06-30 18:59:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/netherite_trapdoor": {
+    "criteria": {
+      "has_item_minecraft_netherite_scrap_2": "2026-06-30 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/netherite_door": {
+    "criteria": {
+      "has_item_minecraft_netherite_scrap_2": "2026-06-30 19:06:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2026-06-30 19:37:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_heater": {
+    "criteria": {
+      "has_item": "2026-06-30 19:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-06-30 19:47:01 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2026-06-30 19:54:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "unbox": "2026-06-30 20:37:43 +0000",
+      "cardboard_box": "2026-06-30 20:37:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2026-06-30 21:05:38 +0000"
     },
     "done": true
   },
