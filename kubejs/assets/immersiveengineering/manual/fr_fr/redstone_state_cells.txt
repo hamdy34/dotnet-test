@@ -1,9 +1,0 @@
-Cellule d'état Redstone
-Stockage 4-bits
-Une cellule d'état est un composant destiné à être utilisé avec les <link;redstone_wiring;Redstone Wires>. Elles stockent une valeur d'entrée et émettent ensuite cette même valeur jusqu'à ce qu'elles soient réinitialisées.<br>
-Alors qu'auparavant, de telles installations nécessitaient plusieurs blocs de comparateurs ou même des pistons, il est désormais possible de stocker la valeur dans un seul <link;crafting_components;electron tube;tubes>.<np>
-L'utilisation du Tournevis de l'ingénieur sur la cellule d'état ouvre l'écran permettant de configurer les couleurs des signaux de Définition (Set), de Réinitialisation (Reset) et de Sortie (Output).<br>
-§lSet : §rUn signal de cette couleur est stocké dans la cellule d'état jusqu'à ce qu'elle soit réinitialisée.
-§lReset : §rUn signal de cette couleur réinitialise la cellule d'état, lui permettant d'être à nouveau définie.
-§lOutput : §rIl s'agit de la couleur du signal sur laquelle la cellule émet sa valeur.<br>
-Lorsque les signaux Set et Reset sont configurés sur la même couleur, la cellule d'état fonctionne comme un système de bascule (toggle) : chaque fois qu'une impulsion de cette couleur est reçue, la cellule alterne entre l'émission d'un signal de sortie ou l'absence de signal.

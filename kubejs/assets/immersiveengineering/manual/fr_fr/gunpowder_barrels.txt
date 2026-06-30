@@ -1,9 +1,0 @@
-Barils de Poudre à Canon
-Volatils, mais Décoratifs
-<&recipe>La poudre à canon peut être transformée en TNT et autres explosifs, mais ceux-ci sont difficiles à contrôler et peu pratiques pour le minage.<br>
-En enfermant la poudre noire dans un <link;storage_barrels;Wooden Barrel>, les barils de poudre permettent une explosion bien plus efficace qu'un simple amas d'explosifs et de sable.<np>
-Les Barils de Poudre à Canon sont particulièrement efficaces comme explosifs de minage, car ils ne détruisent pas les objets et peuvent creuser un tunnel régulier à travers la roche avec facilité grâce à leurs explosions prévisibles.<br>
-Cependant, sans la capacité de transmuter la poudre noire en trinitrotoluène et de l'encapsuler, les barils de poudre n'explosent pas de la même manière que la TNT.<np>
-Pour creuser efficacement à travers la roche, les barils de poudre doivent être placés dans des trous forés dans la pierre avant d'être mis à feu, plutôt que d'être simplement posés sur une surface.<br>
-Lorsqu'il est placé sur une surface, l'onde de choc produite aplatira l'herbe et détruira les feuilles, mais n'aura pas la force de briser la pierre.<np>
-En raison de l'effet de concentration du baril en bois, les ondes de choc des barils de poudre infligent des dégâts et un recul bien plus élevés que la TNT à tout ce qui vit à proximité ; il est donc préférable de rester à l'écart de leurs explosions.

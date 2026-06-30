@@ -1,9 +1,0 @@
-Pompe à Fluides
-Sous Pression
-<&pump_recipe>Les Pompes à Fluides sont utilisées pour déplacer et pressuriser les fluides, que ce soit à l'intérieur ou à l'extérieur des systèmes de tuyaux.<br>
-Les fluides ne seront pompés depuis <link;storage_barrels;fluid barrels> ou <link;storage_minecarts;minecarts;fluid_storage> que si le réservoir et la pompe possèdent des connexions sur ce côté.<br>
-L'utilisation du Marteau de l'Ingénieur sur les faces de la moitié inférieure de la pompe permet de changer la connexion entre entrée, sortie et bloqué.<br>
-Lorsqu'elle reçoit un signal redstone, la pompe à fluides extrait à faible puissance. Faire un clic droit avec un Tournevis de l'Ingénieur inversera ce comportement.<br>
-Fournir du flux à une pompe à fluides engagera la pompe haute pression et augmentera considérablement le taux de transfert.<br>
-Lorsqu'elles sont placées contre des sources de fluide dans le monde, les pompes aspirent le fluide dans leur réservoir interne par leurs entrées. L'eau peut être pompée de la même manière qu'elle peut être ramassée avec un seau.<br>
-Les fluides ramassés seront remplacés par de la cobblestone afin de limiter la quantité de fluides fluents dans le monde. Ce comportement peut être activé ou désactivé en utilisant un Marteau de l'Ingénieur sur le dessus de la pompe tout en s'accroupissant.

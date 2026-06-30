@@ -1,1 +1,0 @@
-./playit-linux-amd64 --secret 062212ad4d1d58e6c4994f4a35ae82727bffb2e993387a0af1da0a7aa256a20f

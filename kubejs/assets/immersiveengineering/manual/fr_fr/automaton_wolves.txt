@@ -1,9 +1,0 @@
-Loups Automates
-K-9 Mark I
-Dans les Chambres d'Épreuve, vous avez trouvé un plan légèrement délavé mais toujours lisible. Il semble contenir des instructions sur la façon de construire une créature synthétique semblable au loup commun !<br>
-Cet automate est fidèle à la personne qui le déploie.<np>
-Étant alimenté par un générateur thermoélectrique, il ne devrait jamais manquer d'énergie pour se déplacer.<br>
-Le châssis métallique lui confère plus de robustesse et de dégâts d'attaque que ses homologues organiques.<br>
-Le circuit qui sert à le contrôler émule les comportements de base d'un loup dressé : s'asseoir, suivre et attaquer les ennemis aux côtés de son propriétaire.<np>
-Tout comme un loup normal, les Loups Automates peuvent également être équipés d'une armure et leur collier peut être teint.<br>
-Ils ne peuvent pas être soignés avec de la nourriture, mais peuvent être réparés en utilisant un marteau sur eux tout en tenant n'importe quelle plaque de métal dans votre autre main.

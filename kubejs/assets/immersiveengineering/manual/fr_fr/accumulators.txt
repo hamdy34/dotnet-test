@@ -1,7 +1,0 @@
-Accumulateurs
-L'énergie à emporter
-Les <&recipes>§lAccumulateurs§r servent d'unités de stockage d'énergie. La puissance d'entrée et de sortie est limitée à un connecteur de la tension de l'accumulateur par face.
-
-La configuration des faces peut être ajustée avec le marteau : le bleu correspond à l'entrée, l'orange correspond à la sortie, et l'absence de marquage de couleur empêche toute connexion.
-
-S'accroupir tout en configurant une face configurera la face opposée à celle qui a été cliquée.

@@ -1,8 +1,0 @@
-Tableau de commutation Redstone
-Des connexions significatives
-Lorsque vous travaillez avec plusieurs réseaux de fils redstone, connecter les couleurs individuelles entre elles peut finir par nécessiter beaucoup d'espace.<br>
-Le tableau de commutation redstone (Redstone Switchboard) atténue ce problème en permettant à n'importe quel signal d'un réseau d'être relayé vers un autre, les couleurs pouvant être librement réattribuées en cours de route.<br>
-Les signaux ne passent que dans une seule direction ; de gauche à droite lorsque vous vous tenez devant le tableau.<br>
-De plus, le tableau dispose d'inverseurs analogiques pour tous les signaux, permettant au réseau de sortie de recevoir l'inverse du signal d'entrée.<np>
-Pour configurer le tableau, utilisez un Engineer's Screwdriver pour ouvrir l'interface. Cliquez sur n'importe quelle prise d'entrée pour commencer à y connecter un câble, puis cliquez sur une prise de sortie pour finaliser la connexion.<br>
-Optionnellement, activez ou désactivez le bouton rouge "invert" sur n'importe quel panneau de sortie - notez cependant que l'inversion n'a d'effet que s'il existe une connexion allant vers cette sortie.

@@ -1,9 +1,0 @@
-Silo
-Plein à craquer !
-Les Silos offrent de l'espace pour une grande quantité d'objets du même type, ce qui les rend excellents pour le stockage de masse de graines, de scories ou de pierre taillée. Ils disposent d'un espace pour 41472 objets, ce qui équivaut à la capacité de 24 coffres.<np>
-La structure peut être construite à partir de n'importe quel type de Sheetmetal, elle n'est pas limitée à l'utilisation du fer.<br>
-Les objets peuvent être insérés par la grille supérieure ou par le port inférieur. Les objets doivent être extraits par le port inférieur.<br>
-L'application d'un signal redstone sur le bloc inférieur permettra une sortie automatique.<np>
-Un comparateur attaché au bloc central inférieur émettra un signal redstone proportionnel au remplissage du silo.<br>
-Attacher le comparateur à l'une des 6 couches supérieures produit un signal proportionnel à la hauteur du comparateur.<br>
-Par exemple, un comparateur attaché à la troisième couche d'un silo n'émettrait aucun signal tant que le réservoir n'est pas rempli à 2/6, et aurait une force de signal de 15 si le silo est à moitié plein ou plus.

@@ -1,9 +1,0 @@
-Cloche de jardin
-Forêt tropicale localisée
-<&recipe>Les cloches de jardin sont des machines conçues pour accélérer la croissance des plantes dans un environnement contrôlé et semi-hydroponique.<br>
-Elles permettent même aux ingénieurs les moins doués en agriculture de faire pousser des plantes rapidement et de récolter automatiquement leurs produits.<np>
-L'appareil accepte l'énergie via les prises situées sur le dessus et les côtés, ainsi que les fluides et les objets via les autres ports.<br>
-Lorsqu'elle est alimentée en énergie et en eau, la cloche de jardin utilise l'eau pour faire pousser les cultures.<br>
-L'ajout d'engrais tels que <link;industrial_byproducts;Sulfur;sulfur> ou <link;industrial_byproducts;Industrial Fertilizer;fertilizer> augmentera considérablement la vitesse de croissance. Un seul engrais sera utilisé à la fois et restera dissous dans l'eau jusqu'à ce qu'il soit épuisé.<br>
-La terre et les graines sont placées au milieu ; chaque graine nécessite le sol approprié pour pousser, la terre étant automatiquement labourée en terre arable.<br>
-Les objets produits sont stockés dans les emplacements de droite et seront automatiquement expulsés par la trappe située à l'avant du dôme en verre.

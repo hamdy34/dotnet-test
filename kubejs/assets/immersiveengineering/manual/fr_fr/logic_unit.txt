@@ -1,9 +1,0 @@
-Unité Logique
-Turing-complet
-<&unit>Grâce à la polyvalence de <link;redstone_wiring;Redstone Wires> et au shuntage de <link;crafting_components;Vacuum Tubes;tubes>, les systèmes redstone complexes peuvent être compactés dans <link;engineers_circuit_workbench;Logic Circuits>.<br>
-L'Unité Logique est la machine spécialisée dans laquelle les circuits logiques sont insérés pour être utilisés.<br>
-Elle dispose d'assez d'espace pour un total de §210 circuits§r, et possède §28 registres intégrés§r utilisables par n'importe quel circuit.<br>
-Pour qu'une unité logique puisse s'interfacer avec les systèmes de redstone colorée, elle doit avoir un <link;redstone_wiring;Redstone Interface Connector;bundled> attaché sur l'un de ses côtés.<br>
-Chaque fois que l'un des connecteurs attachés change d'état, l'unité logique parcourt ses circuits et effectue les 10 opérations.<br>
-Si un circuit utilise un registre comme sortie, la valeur résultante est conservée dans le registre et peut être utilisée par un circuit ultérieur comme entrée.<br>
-Le même connecteur d'interface utilisé pour l'entrée peut également servir de sortie.

@@ -1,7 +1,0 @@
-Générateur Thermoélectrique
-Chaud et Froid
-<&recipe>Les Générateurs Thermoélectriques sont un autre type de production d'énergie, et fonctionnent sans l'utilisation de pièces mécaniques. Ces générateurs utilisent le gradient de température entre deux sources opposées pour produire de l'énergie.<np>
-Placer une source de chaleur sur un côté et une source plus froide sur le côté opposé génère de l'énergie en fonction de la différence entre les deux températures.<br>
-N'importe quel fluide fonctionnera selon sa température, ainsi que certains autres blocs.<br>
-Les gradients de température ne sont utilisés qu'à travers le générateur (côtés opposés), et non sur des côtés adjacents.<np>
-<&values>La liste ci-dessous contient les blocs non-fluides qui peuvent être utilisés comme sources de température.

@@ -1,6 +1,0 @@
-Routeur de Fluides
-Le lait va à gauche, l'acide à droite
-<&recipe>Le Routeur de Fluides fonctionne comme le <link;item_router;Item Router;start>. Les fluides entrants seront redistribués en fonction des filtres sur ses côtés.<br>
-Cliquer avec un seau ou tout autre type de contenant de fluide dans les emplacements de l'interface configurera le filtre pour ce fluide.<np>
-Lorsque des fluides sont acheminés dans le routeur, ils seront dirigés vers une sortie dont le filtre correspond au fluide, ou, si aucun filtre correspondant n'est trouvé, le fluide est dirigé vers une sortie non filtrée. S'il n'y a pas de route disponible ou valide, aucun fluide ne sera accepté.<br>
-Les boutons au-dessus de chaque filtre peuvent être utilisés pour que le routeur respecte ou ignore les composants de données du fluide, comme le type de potion.

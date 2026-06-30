@@ -1,9 +1,0 @@
-Presse en métal
-Sous pression !
-<&multiblock>La Presse en métal est un moyen automatisé de façonner le métal. Elle utilise un piston à haute pression pour presser des plaques, des tiges ou d'autres composants métalliques à l'aide de moules.<br>
-La machine est créée comme illustré ci-dessus en utilisant un Engineer's Hammer sur le piston.<np>
-L'énergie est injectée par la prise au sommet du piston, et les objets par les convoyeurs dans le sens du mouvement.<br>
-Le bloc central inférieur est le port de contrôle redstone, un clic droit dessus avec un Engineer's Screwdriver vous permet d'inverser le contrôle redstone.<np>
-<&mold_blueprint>Pour fonctionner réellement, la presse en métal nécessite qu'un moule soit fixé au piston. Ces moules sont créés dans l'<link;engineers_workbench;§o§nEngineer's §o§nWorkbench§r> en utilisant le plan affiché ci-dessus.<np>
-<&mold_recipes>Les moules sont fabriqués comme indiqué ci-dessus, le wirecutter subissant des dégâts à chaque opération de fabrication. Ils sont ensuite insérés dans la presse en métal en faisant un clic droit sur le multiblock avec un moule en main.<np>
-<&packing>Les moules d'emballage (packing) et de déballage (unpacking) peuvent être utilisés pour compresser 4 ou 9 exemplaires d'un même objet dans leur forme de stockage correspondante, ainsi que pour les déballer à nouveau. Cela peut être utilisé pour stocker des lingots sous forme de blocs, ou pour créer automatiquement des blocs simples comme la Sandstone.

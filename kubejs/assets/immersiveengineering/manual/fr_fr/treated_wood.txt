@@ -1,7 +1,0 @@
-Bois traité
-Haute durabilité
-<&treated_wood>Le bois traité est n'importe quel type de planches de bois imprégnées de <link;industrial_fluids;Creosote Oil;creosote_oil>.<br>
-Malgré leur simplicité, ces planches résistantes aux intempéries sont utilisées dans de nombreux domaines industriels où un bois durable est nécessaire.<np>
-<&recipes>
-<&wallmount>Le bois traité peut également être utilisé pour fabriquer des §2Wallmounts§r, qui peuvent être très utiles pour monter des connecteurs de manière esthétique sans utiliser de poteaux.<br>
-Les Wallmounts peuvent être placés orientés vers le haut ou vers le bas, et ne se connectent pas automatiquement aux blocs placés à proximité.

@@ -1,6 +1,0 @@
-Mélangeur
-Des cuves de pâte à cookies !
-Le Mélangeur est une structure multibloc qui dissout des solides dans des fluides en les mélangeant. La structure est construite comme illustré ci-dessus et formée en utilisant le Marteau de l'Ingénieur sur le bloc de tôle central.<np>
-Les utilisations les plus courantes de cette machine sont le mélange de <link;concrete;Liquid Concrete;liquid>, ou la création de <link;industrial_fluids;Liquid Potions;potion> à partir d'eau et de leurs divers ingrédients.<br>
-Les fluides sont introduits dans le mélangeur par le port situé au bas de son alimentation électrique. Les objets peuvent être insérés via les deux trappes à l'arrière. Le port de fluide à l'avant sert de sortie de fluide.<br>
-L'application d'un signal redstone sur le panneau de contrôle à l'avant interrompra le processus de la machine ; ce comportement peut être inversé à l'aide du Tournevis de l'Ingénieur.

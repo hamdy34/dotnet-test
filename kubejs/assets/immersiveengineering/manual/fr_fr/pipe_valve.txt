@@ -1,6 +1,0 @@
-Vanne de Tuyau
-Ne sait pas compter jusqu'à trois
-<&pump_recipe>Les vannes de tuyau sont des dispositifs méca- redstone qui contrôlent le flux de fluide vers les sections de <link;fluid_pipes;pipe>.<br>
-Les vannes n'acceptent pas de flux inverse à leur orientation, indiquée par la flèche sur le segment central de la vanne.<br>
-Lorsqu'un signal de redstone est appliqué, le mécanisme de la vanne dans le tuyau coupera tout flux à travers la pompe.<br>
-Les vannes de tuyau se connectent aux récepteurs de redstone tels que <link;redstone_wiring;connectors> ou les leviers, permettant de les placer directement contre la face de la vanne.

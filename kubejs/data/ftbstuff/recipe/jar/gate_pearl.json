@@ -1,7 +1,0 @@
-{
-  "type": "ftbstuff:jar",
-  "input_fluids": [{"amount": 250, "fluid": "integrateddynamics:menril_resin"}],
-  "input_items": [{"count": 4, "item": "justdirethings:coal_t1"}, {"count": 1, "item": "ftb:abyssal_pearl"}],
-  "output_items": [{"count": 1, "id": "gateways:gate_pearl", "components": {"gateways:gateway": "gateways:basic/enderman"}}],
-  "temperature": "chilled"
-}

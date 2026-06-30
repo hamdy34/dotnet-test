@@ -1,9 +1,0 @@
-Broyeur
-Gardez vos mains à l'écart !
-Les broyeurs à tambours sont une méthode industrielle pour réduire les minerais et les métaux en poussière, et vos ennemis en une bouillie homogène.
-Le Broyeur peut également transformer des blocs tels que la pierre taillée en graviers et autres formes réduites.<br>
-La machine est formée comme illustré précédemment en faisant un clic droit avec un Marteau de l'Ingénieur sur la barrière centrale du côté long possédant l'entrée redstone.<br>
-La vitesse de traitement du Broyeur dépend de l'énergie qui lui est fournie, tandis que l'efficacité reste constante.<br>
-L'application d'un signal redstone sur le panneau de contrôle à l'avant interrompra le processus de broyage ; ce comportement peut être inversé à l'aide du Tournevis de l'Ingénieur.<br>
-L'énergie est fournie via la prise située sur le dessus de l'épaulement de la machine, et les objets par les tambours au sommet. Les objets sont éjectés par le port situé en bas de la face avant.<br>
-Les broyeurs à tambours ne sont cependant pas uniquement utilisés pour broyer les minerais et les pierres. Tout être vivant tombant dans la machine subira de graves dégâts et le broyeur expulsera les butins correspondants.

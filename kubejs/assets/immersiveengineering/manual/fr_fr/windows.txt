@@ -1,6 +1,0 @@
-Fenêtres d'usine
-La crasse est obligatoire
-<&window_recipes>Les fenêtres à cadre permettent à la lumière naturelle de pénétrer dans l'usine, afin de ne pas dépendre uniquement de <link;engineered_lighting;lanterns>.<br>
-Les cadres en Bois Traité sont plus épais, tandis que l'Acier et l'Aluminium permettent d'en obtenir de plus fins.<br>
-Contrairement aux vitres normales, ces fenêtres peuvent être placées horizontalement en plus de verticalement, pour servir de lucarnes !<np>
-<&reinforced>Fabriquées à partir de verre feuilleté et de <link;resin_and_duroplast;duroplast sheets> et enchâssées dans un cadre robuste en netherite, ces fenêtres sont hautement résistantes aux explosions, même celles d'un Wither !

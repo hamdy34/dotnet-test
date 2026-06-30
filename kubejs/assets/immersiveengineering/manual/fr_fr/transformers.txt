@@ -1,8 +1,0 @@
-Transformateurs
-Ils montent ET descendent !
-Les <&transformer_recipes>§lTransformateurs§r sont des noyaux de fer laminé enveloppés de bobines de fil qui convertissent les différentes tensions de câbles.<br>
-Les transformateurs standards peuvent convertir librement entre la BT (LV) et la MT (MV), mais des circuits spécialisés présents dans le Transformateur HT (HV) sont nécessaires pour convertir vers la HT.<br>
-Leurs composants internes compacts permettent aux transformateurs standards d'être placés sur des <link;posts_and_wallmounts;Posts>, cependant les Transformateurs HT ne peuvent pas être placés de cette manière.<br>
-Le Transformateur HT peut passer directement de la BT à la HT si nécessaire, réduisant ainsi le nombre de transformateurs requis.<br>
-Les schémas de connexion se trouvent aux pages suivantes.
-<&images>

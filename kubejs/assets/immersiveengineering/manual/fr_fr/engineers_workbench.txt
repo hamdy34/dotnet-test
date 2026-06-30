@@ -1,8 +1,0 @@
-Établi de l'Ingénieur
-Toujours encombré
-L'Établi de l'Ingénieur est une table de travail professionnelle pour l'ingénieur instruit. Il est largement utilisé pour créer les objets décrits par les <link;blueprints;Engineer's Blueprints>.<br>
-Une grande variété de plans peut être fabriquée, comme détaillé <link;blueprints;here>, tandis que quelques-uns ne peuvent être découverts que dans le monde ou achetés auprès de villageois.<np>
-Pour utiliser un plan dans l'Établi, placez-le dans l'emplacement à gauche de l'interface et les ingrédients nécessaires dans les six emplacements au milieu.<br>
-Les objets résultants peuvent ensuite être récupérés sur le côté droit. Passer votre souris sur ces emplacements de sortie vous informera précisément des matériaux nécessaires pour chaque objet.<np>
-Une fonction secondaire de l'Établi est la modification et la configuration d'outils et de gadgets plus complexes. Le <link;mining_drill;Mining Drill>, le <link;heavy_plated_shield;Heavy Plated Shield> ou le <link;revolver;Revolver> sont des exemples de tels objets.<br>
-Lorsqu'il est placé dans l'emplacement principal de l'établi, son utilisation devient celle de la modification de ces outils en insérant les améliorations applicables dans les nouveaux emplacements qui apparaissent.

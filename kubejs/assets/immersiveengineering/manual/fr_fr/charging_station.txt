@@ -1,6 +1,0 @@
-Station de recharge
-Chargez vos verres !
-<&recipe>La Station de recharge est un appareil qui vous permet de charger des outils et d'autres objets pouvant accepter de l'énergie.<br>
-L'énergie peut être injectée par le bas ou par l'arrière, et les objets peuvent être placés manuellement ou insérés automatiquement.<np>
-Les tubes à vide à l'avant fournissent une indication sur le niveau de charge de l'objet.<br>
-Des comparateurs peuvent être utilisés pour lire le niveau de charge actuel de l'objet sous forme de signal redstone.<br>

@@ -1,6 +1,0 @@
-Tonneaux de stockage
-Ne roule pas
-<&wooden_barrel>Les Tonneaux en bois sont des conteneurs simples pouvant stocker jusqu'à 12 seaux de liquide, mais pas les gaz ni les fluides chauds.<br>
-Faire un clic droit sur les parois verticales du tonneau avec le Marteau de l'Ingénieur permet de les configurer.<np>
-<&metal_barrel>Les Tonneaux en métal sont identiques à leurs homologues en bois, à l'exception de leur matériau de construction.<br>
-Les tonneaux en métal peuvent stocker des fluides chauds ainsi que des gaz, et leur sortie automatique peut être désactivée par un signal redstone.

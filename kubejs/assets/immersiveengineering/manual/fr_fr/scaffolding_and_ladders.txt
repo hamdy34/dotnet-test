@@ -1,7 +1,0 @@
-Échafaudages & Échelles
-Attention : Chantier
-<&scaffolding_recipes>L'Échafaudage est un agencement polyvalent de tiges métalliques pouvant être utilisé dans la construction.<br>
-L'Échafaudage peut également être gravi comme une échelle sur ses côtés.<np>
-<&ladder_recipes>Souvent, les usines et les machines présentent des dénivelés verticaux qui doivent être franchis.<br>
-Les échelles métalliques offrent une méthode ignifuge et peuvent être recouvertes d'échafaudages pour éviter toute chute accidentelle.<br>
-Les échelles métalliques peuvent être ouvertes avec le Marteau de l'Ingénieur en s'accroupissant et en faisant un clic droit sur l'échelle.

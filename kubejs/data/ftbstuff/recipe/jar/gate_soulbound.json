@@ -1,7 +1,0 @@
-{
-  "type": "ftbstuff:jar",
-  "input_fluids": [{"amount": 500, "fluid": "justdirethings:polymorphic_fluid_source"}],
-  "input_items": [{"count": 4, "item": "oritech:wither_crop_block"}, {"count": 1, "item": "minecraft:writable_book"}],
-  "output_items": [{"count": 1, "id": "minecraft:enchanted_book", "components": {"minecraft:stored_enchantments": {"levels": {"soulbound:soulbound": 1}}}}],
-  "temperature": "superheated"
-}

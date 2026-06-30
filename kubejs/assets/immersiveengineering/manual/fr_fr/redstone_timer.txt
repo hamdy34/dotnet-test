@@ -1,5 +1,0 @@
-Minuteur à Redstone
-Tic tac, tic tac !
-Le minuteur est un appareil à redstone qui utilise un cristal de quartz oscillant pour émettre un signal à intervalles réguliers.<br>
-L'utilisation du Tournevis de l'Ingénieur sur le minuteur permet de configurer son intervalle ainsi que la couleur de son signal de sortie.<np>
-De plus, le minuteur peut être configuré pour nécessiter un signal de contrôle, auquel cas il ne fonctionnera pas tant que ce signal n'est pas activé.

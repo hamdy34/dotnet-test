@@ -1,6 +1,0 @@
-Rideaux à lanières
-Quels mystères se cachent derrière ?
-<&recipe>Les rideaux à lanières sont une barre sur laquelle sont montés des panneaux de <link;industrial_hemp;Tough Fabric;fabric_recipe> qui pendent vers le bas.<br>
-Les rideaux peuvent être utilisés pour bloquer la vue à travers des ouvertures de portes ou de convoyeurs sans obstruer le passage des objets ou des créatures.<br>
-Lorsqu'un objet ou une créature passe à travers, ils émettent un signal redstone. Faites un clic droit dessus avec un Engineer's Screwdriver pour activer les signaux forts.<br>
-Ils peuvent être teints de la même manière que l'armure en cuir.

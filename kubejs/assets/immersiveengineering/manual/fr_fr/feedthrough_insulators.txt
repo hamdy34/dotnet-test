@@ -1,7 +1,0 @@
-Isolateurs de traversée
-La Taverne du Trou dans le Mur
-<&feedthrough>Les câbles ne peuvent pas, par eux-mêmes, coexister avec la roche, le bois ou d'autres matériaux industriels bloquant leur passage.<br>
-Grâce à l'application minutieuse d'une isolation en terre cuite, un conduit solide peut être construit à l'intérieur de ces matériaux pour conduire l'énergie.<br>
-L'Isolateur de traversée permet de fusionner deux connecteurs à travers des murs d'un mètre d'épaisseur, et ne peut pas connecter plus d'un fil par connecteur.<br>
-Ils peuvent être créés avec n'importe quel bloc solide "normal" au milieu, en faisant un clic droit sur l'un des deux connecteurs avec un Engineer's Hammer.<br>
-Des connecteurs non structurels peuvent être utilisés pour créer des isolateurs de traversée pour le type de câble correspondant.

@@ -1,6 +1,0 @@
-Trémies
-Clonk. Clonk. Clo-BONK !
-<&chute_recipes>Les Trémies (Chutes) sont des constructions simples faites de plaques de métal qui permettent aux créatures et aux objets pouvant tenir à l'intérieur de tomber verticalement.<br>
-Les Trémies insèrent également les objets dans les inventaires situés en dessous d'elles et peuvent être alimentées par des convoyeurs ou des dispositifs similaires.<br>
-Les objets à l'intérieur ne seront pas ramassés par les joueurs et devraient être immunisés contre la plupart des formes d'attraction, magnétiques ou autres.<br>
-Faites Maj + clic droit avec un Engineer's Hammer pour transformer la trémie en une pièce d'angle qui dirige tout ce qui se trouve à l'intérieur vers le côté et se connecte aux autres trémies.

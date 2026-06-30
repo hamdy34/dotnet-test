@@ -1,6 +1,0 @@
-Composants de Machine
-Où est ma clé Allen ?
-En dehors d'événements paracausaux et de la capacité à modifier la taille des atomes, faire tenir de la machinerie lourde et complexe dans un cube d'un mètre semble impossible.<br>
-Afin de créer des machines plus complexes que de simples fourneaux et silos de stockage, des composants mécaniques doivent d'abord être assemblés.<br>
-Les Blocs d'Ingénierie sont utilisés aux côtés de composants plus simples tels que <link;scaffolding_and_ladders;scaffolding> pour construire de la machinerie lourde.<np>
-<&recipes>

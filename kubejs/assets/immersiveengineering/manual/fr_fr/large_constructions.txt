@@ -1,6 +1,0 @@
-Grandes Constructions
-Qu'est-ce qu'une Thermal Expansion ?
-<&items>Toutes les machines ne peuvent pas être emballées dans de simples paquets et expédiées directement au consommateur. Pour chaque station de recharge, il y a deux constructions derrière elle qui nécessitent plus d'espace.<br>
-Les grands fourneaux qui doivent traiter en vrac, les fours à coke qui nécessitent des mètres d'isolation, tout cela ne peut pas tenir dans un simple cube d'un mètre par un mètre.<br>
-Les constructions multiblocs, de grandes machines, sont la réponse à cela : bâties puis assemblées, plutôt que construites sur un établi.<br>
-Lorsqu'elles sont assemblées à partir de leurs composants à l'aide du Engineer's Hammer, elles fournissent le soutien industriel dont tout ingénieur qui se respecte a besoin pour ses usines.

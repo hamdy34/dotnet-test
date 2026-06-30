@@ -1,5 +1,0 @@
-Trappe à objets
-Effectuer un retrait
-<&recipe>Les trappes à objets sont un moyen simple de récupérer un objet depuis un inventaire.<br>
-Faire un clic droit dessus avec une main vide permettra de récupérer la première pile d'objets de l'inventaire auquel elle est attachée.<br>
-Cela facilite l'accès aux matériaux de construction fréquemment utilisés stockés dans des coffres ou des caisses, et s'avère extrêmement utile pour récupérer directement des objets depuis un <link;silo;Silo>.

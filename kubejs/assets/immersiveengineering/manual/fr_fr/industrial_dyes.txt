@@ -1,9 +1,0 @@
-Teintures Industrielles
-Absolument Sans Danger
-Les composés métalliques ont de nombreuses utilisations dans les teintures industrielles, et le plus utile d'entre eux est le plomb.<br>
-Les composés de plomb peuvent être fabriqués en grandes quantités de teinture rouge et blanche.<br>
-La teinture jaune n'a pas été produite en quantité à partir du plomb, car plusieurs ingrédients ne peuvent être trouvés en quantité suffisante pour fabriquer du chromate de plomb.
-<&lead_white>En combinant les vapeurs de dioxyde de carbone provenant de matières en décomposition et l'acide acétique de l'éthanol gâté, le plomb métal peut être transformé en §2Carbonate de Plomb§r, communément appelé Blanc de Plomb.<br>
-La teinture produite de cette manière peut être fabriquée sans avoir besoin de chasser d'innombrables squelettes pour broyer leurs os.
-<&lead_red>En oxydant des pépites de plomb dans un §2Four§r à haute température, le plomb métal peut être converti en §2Oxyde de Plomb§r, plus connu sous le nom de Minium.<br>
-Cette teinture peut être produite sans avoir besoin d'une ferme à fleurs ou d'une cloche pour obtenir de grandes quantités de fleurs rouges.

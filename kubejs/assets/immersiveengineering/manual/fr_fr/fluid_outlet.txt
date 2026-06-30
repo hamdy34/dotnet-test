@@ -1,6 +1,0 @@
-Sortie de Fluide
-Et maintenant, les vannes vont s'ouvrir
-<&outlet_recipe>Les Sorties de Fluide sont des grilles ouvertes qui servent de points d'extrémité pour les systèmes de tuyaux où les fluides peuvent s'écouler dans le monde.<br>
-Le fluide ne peut être rempli que jusqu'au niveau des côtés de la sortie, et une fois ce niveau atteint, le reflux empêchera l'écoulement du fluide.<br>
-Les côtés de la sortie peuvent être modifiés entre entrée, sortie ou fermé avec le Marteau de l'Ingénieur.<br>
-Les signaux Redstone empêcheront le fluide de s'écouler dans la Sortie de Fluide et donc dans le monde.

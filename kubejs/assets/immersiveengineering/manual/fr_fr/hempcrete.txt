@@ -1,4 +1,0 @@
-Béton de chanvre
-Matériau d'isolation
-<&hempcrete>Le béton de chanvre est une variante fibreuse et plus fragile du béton, possédant un potentiel d'isolation plus élevé.<br>
-Le béton de chanvre peut être taillé dans les mêmes types de briques que le <link;concrete;Concrete;brick>, mais ne peut pas être découpé en tranches ou en d'autres structures spéciales.

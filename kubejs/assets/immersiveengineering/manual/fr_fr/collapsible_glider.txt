@@ -1,7 +1,0 @@
-Planeur Repliable
-Naviguer dans les cieux
-<&recipe>§oLes villageois racontent des histoires de cités dans le ciel, gardées par des dragons, où de braves aventuriers peuvent acquérir des ailes magiques leur permettant de planer dans les airs.§r<br>
-Balivernes, sûrement - mais le concept intrigue l'esprit de l'ingénieur. Le §2Planeur Repliable§r est un dispositif qui offre justement de telles libertés, vous permettant de naviguer dans les cieux.<br>
-Il remplit les mêmes fonctions que les « Élytres » dont parlaient les villageois, mais présente quelques inconvénients : il a une durabilité plus faible et manque de tout potentiel magique pour les enchantements.<br>
-Sa construction légère en chanvre et en aluminium le rend également peu adapté aux vitesses élevées, subissant des dégâts accrus lorsqu'il est utilisé en piqué ou accéléré par des feux d'artifice.<br>
-Ses matériaux sont cependant faciles à acquérir, et il peut être aisément réparé avec du tissu de chanvre... à condition qu'il ne se brise pas complètement lors d'un piqué à haute vitesse.

@@ -1,8 +1,0 @@
-Introduction
-Se lancer dans l'ingénierie
-Salutations et bienvenue dans Immersive Engineering.<br>
-Les notes et guides suivants présenteront les technologies les plus récentes disponibles dans les mondes combinés modernes.<br>
-Cependant, certains aspects de la science peuvent être si étranges que ce manuel ne peut pas encore les expliquer. En voyageant à travers les mondes, certains moments "Eurêka" peuvent mener à l'ajout de nouvelles pages au manuel, bien que cela reste une exception rare.<np>
-Toute l'ingénierie présentée dans les chapitres suivants est construite autour du concept de transfert d'énergie pré-calculé. L'énergie utilisée par les machines est la Forge Energy, une caractéristique partagée avec de nombreuses autres méthodes de génération actuellement disponibles.<br>
-De nombreuses machines sont des <link;large_constructions;multiblock machines>, formées avec le <link;basic_tools;Engineer's Hammer;engineers_hammer>.<br>
-Toutes les informations nécessaires à l'utilisation de cette technologie sont contenues ici, alors lancez-vous avec audace !
