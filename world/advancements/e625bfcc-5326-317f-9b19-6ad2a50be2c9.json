@@ -105,7 +105,10 @@
       "minecraft:deep_cold_ocean": "2026-06-23 08:12:07 +0000",
       "minecraft:cold_ocean": "2026-06-21 18:27:36 +0000",
       "minecraft:ocean": "2026-06-21 18:12:25 +0000",
-      "minecraft:lukewarm_ocean": "2026-06-21 18:10:10 +0000"
+      "minecraft:deep_ocean": "2026-07-01 17:33:55 +0000",
+      "minecraft:lukewarm_ocean": "2026-06-21 18:10:10 +0000",
+      "minecraft:warm_ocean": "2026-07-01 17:46:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-07-01 17:41:35 +0000"
     },
     "done": false
   },
@@ -593,9 +596,11 @@
     "criteria": {
       "cooked_porkchop": "2026-06-23 18:14:20 +0000",
       "golden_apple": "2026-06-30 19:20:12 +0000",
+      "potato": "2026-07-01 17:46:37 +0000",
       "cooked_cod": "2026-06-21 18:58:06 +0000",
       "sweet_berries": "2026-06-23 18:27:35 +0000",
       "cooked_salmon": "2026-06-23 09:39:05 +0000",
+      "golden_carrot": "2026-07-01 17:51:24 +0000",
       "carrot": "2026-06-21 18:31:27 +0000"
     },
     "done": false
@@ -1448,6 +1453,114 @@
   "actuallyadditions:craft_reconstructor": {
     "criteria": {
       "atomic_reconstructor": "2026-07-01 16:38:39 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:make_first_crystal": {
+    "criteria": {
+      "crystal": "2026-07-01 17:05:12 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_empowerer": {
+    "criteria": {
+      "empowerer": "2026-07-01 17:09:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-07-01 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "has_tag_c_dyes_blue_1": "2026-07-01 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-07-01 17:10:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_light_blue": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_2": "2026-07-01 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_light_blue": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_2": "2026-07-01 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "has_tag_c_dyes_light_blue_1": "2026-07-01 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "has_tag_c_dyes_white_1": "2026-07-01 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-07-01 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-07-01 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2026-07-01 17:24:46 +0000"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/menril_glass": {
+    "criteria": {
+      "criteria_0": "2026-07-01 17:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-07-01 17:31:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/crystal_display": {
+    "criteria": {
+      "has_item_minecraft_amethyst_shard_2": "2026-07-01 17:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-07-01 17:35:56 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2026-07-01 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2026-07-01 18:08:19 +0000"
     },
     "done": true
   },

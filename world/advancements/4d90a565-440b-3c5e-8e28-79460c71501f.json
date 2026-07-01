@@ -112,7 +112,8 @@
       "minecraft:cold_ocean": "2026-06-21 18:29:24 +0000",
       "minecraft:ocean": "2026-06-21 18:11:15 +0000",
       "minecraft:deep_ocean": "2026-06-21 20:11:22 +0000",
-      "minecraft:lukewarm_ocean": "2026-06-21 18:10:05 +0000"
+      "minecraft:lukewarm_ocean": "2026-06-21 18:10:05 +0000",
+      "minecraft:warm_ocean": "2026-07-01 17:45:59 +0000"
     },
     "done": false
   },
@@ -680,6 +681,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-06-30 19:49:28 +0000",
+      "potato": "2026-07-01 17:33:23 +0000",
       "cooked_cod": "2026-06-22 17:58:38 +0000",
       "sweet_berries": "2026-06-21 19:36:53 +0000",
       "porkchop": "2026-06-23 12:23:31 +0000",
@@ -896,15 +898,17 @@
     "criteria": {
       "minecraft:blaze": "2026-06-23 12:10:09 +0000",
       "minecraft:skeleton": "2026-06-23 12:16:26 +0000",
-      "minecraft:piglin": "2026-06-23 11:40:45 +0000",
       "minecraft:phantom": "2026-06-21 22:06:49 +0000",
       "minecraft:zombified_piglin": "2026-06-23 12:01:21 +0000",
+      "minecraft:wither_skeleton": "2026-06-23 12:11:10 +0000",
+      "minecraft:hoglin": "2026-06-23 11:41:03 +0000",
+      "minecraft:piglin": "2026-06-23 11:40:45 +0000",
+      "minecraft:silverfish": "2026-07-01 17:52:05 +0000",
+      "minecraft:enderman": "2026-07-01 18:06:36 +0000",
       "minecraft:magma_cube": "2026-06-23 12:18:47 +0000",
       "minecraft:spider": "2026-06-23 12:45:44 +0000",
-      "minecraft:wither_skeleton": "2026-06-23 12:11:10 +0000",
       "minecraft:zombie": "2026-06-23 01:14:41 +0000",
-      "minecraft:creeper": "2026-06-30 23:57:07 +0000",
-      "minecraft:hoglin": "2026-06-23 11:41:03 +0000"
+      "minecraft:creeper": "2026-06-30 23:57:07 +0000"
     },
     "done": false
   },
@@ -1566,6 +1570,42 @@
   "minecraft:oritech/steam_engine": {
     "criteria": {
       "got_steam_engine": "2026-07-01 14:55:29 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:make_first_crystal": {
+    "criteria": {
+      "crystal": "2026-07-01 17:05:26 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_empowerer": {
+    "criteria": {
+      "empowerer": "2026-07-01 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2026-07-01 17:27:18 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2026-07-01 17:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-07-01 17:36:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2026-07-01 18:07:13 +0000"
     },
     "done": true
   },
