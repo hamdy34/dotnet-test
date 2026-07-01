@@ -903,6 +903,7 @@
       "minecraft:spider": "2026-06-23 12:45:44 +0000",
       "minecraft:wither_skeleton": "2026-06-23 12:11:10 +0000",
       "minecraft:zombie": "2026-06-23 01:14:41 +0000",
+      "minecraft:creeper": "2026-06-30 23:57:07 +0000",
       "minecraft:hoglin": "2026-06-23 11:41:03 +0000"
     },
     "done": false
@@ -1511,6 +1512,12 @@
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2026-06-30 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-07-01 01:06:04 +0000"
     },
     "done": true
   },
