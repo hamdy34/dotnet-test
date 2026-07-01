@@ -1521,5 +1521,53 @@
     },
     "done": true
   },
+  "supplementaries:recipe/fodder": {
+    "criteria": {
+      "has_item_minecraft_hay_block_1": "2026-07-01 13:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2026-07-01 13:47:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-07-01 13:47:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2026-07-01 13:57:00 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2026-07-01 14:02:58 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2026-07-01 14:04:57 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2026-07-01 14:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/steam_engine": {
+    "criteria": {
+      "got_steam_engine": "2026-07-01 14:55:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

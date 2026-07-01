@@ -999,6 +999,7 @@
       "minecraft:magma_cube": "2026-06-30 18:51:03 +0000",
       "minecraft:spider": "2026-06-24 12:38:32 +0000",
       "minecraft:vex": "2026-06-23 08:31:27 +0000",
+      "minecraft:zombie": "2026-07-01 13:45:45 +0000",
       "minecraft:evoker": "2026-06-23 08:29:49 +0000"
     },
     "done": false
@@ -1397,6 +1398,56 @@
   "mekanism:energy_transport": {
     "criteria": {
       "basic_universal_cable": "2026-06-30 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fodder": {
+    "criteria": {
+      "has_item_minecraft_hay_block_1": "2026-07-01 13:45:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap/piston": {
+    "criteria": {
+      "has_item_minecraft_sticky_piston_1": "2026-07-01 13:56:30 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2026-07-01 14:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-07-01 15:31:52 +0000",
+      "minecraft:chicken": "2026-07-01 15:30:58 +0000",
+      "minecraft:sheep": "2026-07-01 15:31:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-07-01 15:30:58 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-07-01 16:03:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2026-07-01 16:03:42 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_reconstructor": {
+    "criteria": {
+      "atomic_reconstructor": "2026-07-01 16:38:39 +0000"
     },
     "done": true
   },
