@@ -1627,6 +1627,12 @@
     },
     "done": true
   },
+  "actuallyadditions:craft_crusher": {
+    "criteria": {
+      "crystal": "2026-07-03 19:33:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:advanced_pressure_tube": {
     "criteria": {
       "0": "2026-07-03 17:09:51 +0000"
@@ -1654,6 +1660,12 @@
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2026-07-03 19:25:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2026-07-03 19:30:23 +0000"
     },
     "done": true
   },
