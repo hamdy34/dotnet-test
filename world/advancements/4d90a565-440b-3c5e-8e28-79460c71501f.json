@@ -1633,6 +1633,12 @@
     },
     "done": true
   },
+  "integratedtunnels:interfaces/interface_energy": {
+    "criteria": {
+      "criteria_0": "2026-07-03 17:53:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/buntings/bunting_blue": {
     "criteria": {
       "has_tag_c_dyes_blue_2": "2026-07-03 17:20:15 +0000"
