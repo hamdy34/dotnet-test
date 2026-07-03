@@ -1633,9 +1633,21 @@
     },
     "done": true
   },
+  "supplementaries:recipe/buntings/bunting_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-07-03 17:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:oritech/foundry": {
     "criteria": {
       "got_foundry": "2026-07-03 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "has_tag_c_dyes_blue_1": "2026-07-03 17:20:15 +0000"
     },
     "done": true
   },
@@ -1648,6 +1660,12 @@
   "immersiveengineering:main/craft_workbench": {
     "criteria": {
       "has_item": "2026-07-03 17:13:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-07-03 17:20:15 +0000"
     },
     "done": true
   },
