@@ -1702,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:oritech/plastic": {
+    "criteria": {
+      "got_plastic": "2026-07-03 20:25:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_blue_dye": {
     "criteria": {
       "has_tag_c_dyes_blue_1": "2026-07-03 17:20:15 +0000"
