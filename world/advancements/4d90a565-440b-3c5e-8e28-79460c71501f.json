@@ -1756,15 +1756,15 @@
     },
     "done": true
   },
-  "supplementaries:recipe/globe_sepia": {
-    "criteria": {
-      "has_item_supplementaries_globe_1": "2026-07-03 22:21:00 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipe/deepslate_lamp": {
     "criteria": {
       "has_item_minecraft_deepslate_1": "2026-07-03 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/globe_sepia": {
+    "criteria": {
+      "has_item_supplementaries_globe_1": "2026-07-03 22:21:00 +0000"
     },
     "done": true
   },
