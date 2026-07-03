@@ -1712,6 +1712,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:speed_upgrade": {
+    "criteria": {
+      "0": "2026-07-03 19:51:03 +0000"
+    },
+    "done": true
+  },
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2026-07-03 19:37:19 +0000"
