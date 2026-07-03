@@ -1609,5 +1609,17 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2026-07-01 18:19:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2026-07-01 18:32:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
