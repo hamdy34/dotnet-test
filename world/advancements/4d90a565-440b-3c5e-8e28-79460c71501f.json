@@ -1621,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:oritech/centrifuge": {
+    "criteria": {
+      "got_centrifuge": "2026-07-03 19:39:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_treatedwood": {
     "criteria": {
       "has_item": "2026-07-03 17:11:54 +0000"
@@ -1645,6 +1651,12 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2026-07-03 19:39:28 +0000"
+    },
+    "done": true
+  },
   "mekanism:basic_control_circuit": {
     "criteria": {
       "basic_control_circuit": "2026-07-03 19:26:51 +0000"
@@ -1654,6 +1666,12 @@
   "mekanism:reinforced_alloy": {
     "criteria": {
       "alloy_reinforced": "2026-07-03 19:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/pulverizer": {
+    "criteria": {
+      "got_pulverizer": "2026-07-03 19:43:41 +0000"
     },
     "done": true
   },
