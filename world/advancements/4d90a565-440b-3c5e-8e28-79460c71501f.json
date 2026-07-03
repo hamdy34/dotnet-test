@@ -1750,5 +1750,17 @@
     },
     "done": true
   },
+  "supplementaries:recipe/crystal_display": {
+    "criteria": {
+      "has_item_minecraft_deepslate_1": "2026-07-03 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/deepslate_lamp": {
+    "criteria": {
+      "has_item_minecraft_deepslate_1": "2026-07-03 22:17:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
