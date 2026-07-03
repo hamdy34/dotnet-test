@@ -1639,9 +1639,21 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2026-07-03 19:26:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/buntings/bunting_blue": {
     "criteria": {
       "has_tag_c_dyes_blue_2": "2026-07-03 17:20:15 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-07-03 19:25:27 +0000"
     },
     "done": true
   },
