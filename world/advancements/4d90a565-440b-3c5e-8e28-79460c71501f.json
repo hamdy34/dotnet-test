@@ -1621,9 +1621,33 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2026-07-03 17:11:54 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:advanced_pressure_tube": {
+    "criteria": {
+      "0": "2026-07-03 17:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:oritech/foundry": {
     "criteria": {
       "got_foundry": "2026-07-03 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2026-07-03 17:13:55 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2026-07-03 17:13:55 +0000"
     },
     "done": true
   },
