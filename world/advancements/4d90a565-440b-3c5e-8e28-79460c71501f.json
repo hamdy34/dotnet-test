@@ -1651,6 +1651,12 @@
     },
     "done": true
   },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2026-07-03 19:39:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/buntings/bunting_blue": {
     "criteria": {
       "has_tag_c_dyes_blue_2": "2026-07-03 17:20:15 +0000"
@@ -1684,6 +1690,18 @@
   "immersiveengineering:tools/tools_root": {
     "criteria": {
       "has_item": "2026-07-03 17:13:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2026-07-03 19:37:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2026-07-03 19:37:40 +0000"
     },
     "done": true
   },
