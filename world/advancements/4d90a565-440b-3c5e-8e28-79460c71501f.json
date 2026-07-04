@@ -1841,5 +1841,11 @@
     },
     "done": true
   },
+  "actuallyadditions:craft_reconstructor": {
+    "criteria": {
+      "atomic_reconstructor": "2026-07-04 19:47:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
