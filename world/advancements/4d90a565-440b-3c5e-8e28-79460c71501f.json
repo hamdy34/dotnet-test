@@ -1811,6 +1811,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:flux_compressor": {
+    "criteria": {
+      "0": "2026-07-04 18:50:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:tools/craft_revolver": {
     "criteria": {
       "has_item": "2026-07-04 18:46:50 +0000"
