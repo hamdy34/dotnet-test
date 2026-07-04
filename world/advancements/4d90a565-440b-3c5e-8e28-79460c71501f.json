@@ -1787,5 +1787,23 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2026-07-04 07:09:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "conveyor_basic": "2026-07-04 07:05:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_metalpress": {
+    "criteria": {
+      "form_multiblock": "2026-07-04 07:05:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
