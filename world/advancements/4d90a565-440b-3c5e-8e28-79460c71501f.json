@@ -1847,6 +1847,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:vortex_tube": {
+    "criteria": {
+      "0": "2026-07-04 22:37:07 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:logic_operations/constant_definition": {
     "criteria": {
       "criteria_0": "2026-07-04 20:49:01 +0000"
