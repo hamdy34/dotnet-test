@@ -1853,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-07-04 23:14:23 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:logic_operations/constant_definition": {
     "criteria": {
       "criteria_0": "2026-07-04 20:49:01 +0000"
