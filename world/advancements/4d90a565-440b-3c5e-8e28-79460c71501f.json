@@ -666,6 +666,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2026-06-21 19:19:30 +0000",
+      "sugar_cane": "2026-07-04 06:45:26 +0000",
       "sweet_berries": "2026-06-22 17:30:40 +0000",
       "nether_wart": "2026-07-03 19:46:36 +0000",
       "wheat": "2026-06-21 19:20:10 +0000",
