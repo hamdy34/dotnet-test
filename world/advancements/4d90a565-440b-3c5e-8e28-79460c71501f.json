@@ -1853,6 +1853,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:pneumatic_armor": {
+    "criteria": {
+      "0": "2026-07-04 22:23:25 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:pressure_chamber": {
     "criteria": {
       "0": "2026-07-04 21:56:15 +0000"
