@@ -1811,5 +1811,11 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2026-07-04 18:46:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
