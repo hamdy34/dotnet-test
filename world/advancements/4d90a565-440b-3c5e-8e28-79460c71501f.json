@@ -1877,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-07-05 00:53:45 +0000"
+    },
+    "done": true
+  },
   "mekanism:installer": {
     "criteria": {
       "installer": "2026-07-04 23:34:00 +0000"
