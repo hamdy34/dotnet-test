@@ -2028,9 +2028,27 @@
     },
     "done": true
   },
+  "supplementaries:recipe/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "has_tag_c_dyes_red_1": "2026-07-05 21:36:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "has_tag_c_dyes_white_1": "2026-07-05 21:03:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_red": {
+    "criteria": {
+      "has_tag_c_dyes_red_2": "2026-07-05 21:36:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_red": {
+    "criteria": {
+      "has_tag_c_dyes_red_2": "2026-07-05 21:36:45 +0000"
     },
     "done": true
   },
