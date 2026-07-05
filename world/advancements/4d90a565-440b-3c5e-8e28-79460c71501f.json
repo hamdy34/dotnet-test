@@ -1847,6 +1847,24 @@
     },
     "done": true
   },
+  "integrateddynamics:logic_operations/constant_definition": {
+    "criteria": {
+      "criteria_0": "2026-07-04 20:49:01 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_chamber": {
+    "criteria": {
+      "0": "2026-07-04 21:56:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_armor": {
+    "criteria": {
+      "0": "2026-07-04 22:23:25 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:vortex_tube": {
     "criteria": {
       "0": "2026-07-04 22:37:07 +0000"
@@ -1859,21 +1877,9 @@
     },
     "done": true
   },
-  "integrateddynamics:logic_operations/constant_definition": {
+  "mekanism:installer": {
     "criteria": {
-      "criteria_0": "2026-07-04 20:49:01 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pneumatic_armor": {
-    "criteria": {
-      "0": "2026-07-04 22:23:25 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pressure_chamber": {
-    "criteria": {
-      "0": "2026-07-04 21:56:15 +0000"
+      "installer": "2026-07-04 23:34:00 +0000"
     },
     "done": true
   },
@@ -1883,9 +1889,75 @@
     },
     "done": true
   },
-  "mekanism:installer": {
+  "supplementaries:recipe/buntings/bunting_green": {
     "criteria": {
-      "installer": "2026-07-04 23:34:00 +0000"
+      "has_tag_c_dyes_green_2": "2026-07-05 05:09:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_green": {
+    "criteria": {
+      "has_tag_c_dyes_green_2": "2026-07-05 05:09:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "has_tag_c_dyes_green_1": "2026-07-05 05:09:00 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:amadron_tablet": {
+    "criteria": {
+      "0": "2026-07-05 06:33:03 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pcb_blueprint": {
+    "criteria": {
+      "0": "2026-07-05 06:37:47 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:uv_light_box": {
+    "criteria": {
+      "0": "2026-07-05 06:38:45 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench": {
+    "criteria": {
+      "0": "2026-07-05 06:41:54 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench_charged": {
+    "criteria": {
+      "0": "2026-07-05 06:42:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/rope_arrow_add": {
+    "criteria": {
+      "has_item_supplementaries_rope_arrow_1": "2026-07-05 09:51:54 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:etchacid_bucket": {
+    "criteria": {
+      "0": "2026-07-05 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:printed_circuit_board": {
+    "criteria": {
+      "0": "2026-07-05 08:54:51 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:empty_pcb": {
+    "criteria": {
+      "0": "2026-07-05 07:48:46 +0000"
     },
     "done": true
   },
