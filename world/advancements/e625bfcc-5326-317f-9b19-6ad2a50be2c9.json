@@ -1564,5 +1564,11 @@
     },
     "done": true
   },
+  "minecraft:oritech/plastic": {
+    "criteria": {
+      "got_plastic": "2026-07-05 18:10:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
