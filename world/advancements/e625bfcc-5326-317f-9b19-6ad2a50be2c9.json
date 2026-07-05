@@ -1564,6 +1564,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:advanced_pressure_tube": {
+    "criteria": {
+      "0": "2026-07-05 18:27:45 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:pneumatic_armor": {
     "criteria": {
       "0": "2026-07-05 18:24:10 +0000"
