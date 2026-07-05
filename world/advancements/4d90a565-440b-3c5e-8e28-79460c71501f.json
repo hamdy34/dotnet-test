@@ -1986,6 +1986,12 @@
     },
     "done": true
   },
+  "supplementaries:recipe/awnings/awning_cyan": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_2": "2026-07-05 20:47:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/awnings/awning_gray": {
     "criteria": {
       "has_tag_c_dyes_gray_2": "2026-07-05 20:43:36 +0000"
@@ -1995,6 +2001,18 @@
   "supplementaries:recipe/buntings/bunting_gray": {
     "criteria": {
       "has_tag_c_dyes_gray_2": "2026-07-05 20:43:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_1": "2026-07-05 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_cyan": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_2": "2026-07-05 20:47:50 +0000"
     },
     "done": true
   },
