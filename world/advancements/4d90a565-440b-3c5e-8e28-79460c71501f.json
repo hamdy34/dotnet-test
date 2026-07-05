@@ -2040,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-07-05 21:10:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/awnings/awning_white": {
     "criteria": {
       "has_tag_c_dyes_white_2": "2026-07-05 21:03:22 +0000"
