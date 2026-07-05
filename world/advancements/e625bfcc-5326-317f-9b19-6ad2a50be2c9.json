@@ -1595,5 +1595,11 @@
     },
     "done": true
   },
+  "supplementaries:recipe/lapis_bricks": {
+    "criteria": {
+      "has_item_minecraft_lapis_lazuli_1": "2026-07-05 21:06:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

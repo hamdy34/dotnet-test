@@ -2028,5 +2028,23 @@
     },
     "done": true
   },
+  "supplementaries:recipe/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "has_tag_c_dyes_white_1": "2026-07-05 21:03:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-07-05 21:03:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-07-05 21:03:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
