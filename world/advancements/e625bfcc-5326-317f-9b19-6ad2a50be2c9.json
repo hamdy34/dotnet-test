@@ -1582,6 +1582,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:speed_upgrade": {
+    "criteria": {
+      "0": "2026-07-05 18:32:34 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:amadron_tablet": {
     "criteria": {
       "0": "2026-07-05 18:18:42 +0000"
