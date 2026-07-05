@@ -1937,9 +1937,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/rope_arrow_add": {
+  "pneumaticcraft:empty_pcb": {
     "criteria": {
-      "has_item_supplementaries_rope_arrow_1": "2026-07-05 09:51:54 +0000"
+      "0": "2026-07-05 07:48:46 +0000"
     },
     "done": true
   },
@@ -1955,9 +1955,9 @@
     },
     "done": true
   },
-  "pneumaticcraft:empty_pcb": {
+  "supplementaries:recipe/rope_arrow_add": {
     "criteria": {
-      "0": "2026-07-05 07:48:46 +0000"
+      "has_item_supplementaries_rope_arrow_1": "2026-07-05 09:51:54 +0000"
     },
     "done": true
   },
