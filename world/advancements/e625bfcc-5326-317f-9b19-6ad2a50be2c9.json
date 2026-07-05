@@ -1565,9 +1565,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:advanced_pressure_tube": {
+  "minecraft:oritech/plastic": {
     "criteria": {
-      "0": "2026-07-05 18:27:45 +0000"
+      "got_plastic": "2026-07-05 18:10:50 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:amadron_tablet": {
+    "criteria": {
+      "0": "2026-07-05 18:18:42 +0000"
     },
     "done": true
   },
@@ -1577,21 +1583,15 @@
     },
     "done": true
   },
-  "minecraft:oritech/plastic": {
+  "pneumaticcraft:advanced_pressure_tube": {
     "criteria": {
-      "got_plastic": "2026-07-05 18:10:50 +0000"
+      "0": "2026-07-05 18:27:45 +0000"
     },
     "done": true
   },
   "pneumaticcraft:speed_upgrade": {
     "criteria": {
       "0": "2026-07-05 18:32:34 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:amadron_tablet": {
-    "criteria": {
-      "0": "2026-07-05 18:18:42 +0000"
     },
     "done": true
   },
