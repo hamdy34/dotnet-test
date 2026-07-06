@@ -2070,5 +2070,11 @@
     },
     "done": true
   },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2026-07-06 00:48:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
