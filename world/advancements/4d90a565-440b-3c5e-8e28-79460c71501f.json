@@ -2083,5 +2083,11 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_squeezer": {
+    "criteria": {
+      "form_multiblock": "2026-07-06 02:11:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
