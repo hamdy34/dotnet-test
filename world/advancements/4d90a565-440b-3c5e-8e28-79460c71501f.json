@@ -2077,5 +2077,11 @@
     },
     "done": true
   },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2026-07-06 01:40:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
