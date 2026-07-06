@@ -2089,15 +2089,15 @@
     },
     "done": true
   },
-  "immersiveengineering:main/craft_pump": {
-    "criteria": {
-      "has_item": "2026-07-06 02:16:47 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
       "has_item": "2026-07-06 02:15:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "has_item": "2026-07-06 02:16:47 +0000"
     },
     "done": true
   },
