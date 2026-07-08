@@ -1135,6 +1135,7 @@
   },
   "obtrophies:all_vanilla_trophies": {
     "criteria": {
+      "skeleton": "2026-07-08 19:55:08 +0000",
       "turtle": "2026-06-23 09:56:20 +0000"
     },
     "done": false
