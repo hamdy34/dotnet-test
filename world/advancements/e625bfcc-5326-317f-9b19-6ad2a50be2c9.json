@@ -1627,5 +1627,11 @@
     },
     "done": true
   },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2026-07-08 18:51:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
