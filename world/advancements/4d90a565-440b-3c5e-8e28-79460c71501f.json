@@ -2127,6 +2127,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2026-07-08 03:23:05 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:repair_explorers_compass": {
     "criteria": {
       "has_explorers_compass": "2026-07-08 03:24:48 +0000"
@@ -2139,12 +2145,6 @@
       "silicon": "2026-07-08 03:26:44 +0000",
       "engineering": "2026-07-08 03:26:38 +0000",
       "logic": "2026-07-08 03:26:41 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_compass": "2026-07-08 03:23:05 +0000"
     },
     "done": true
   },
