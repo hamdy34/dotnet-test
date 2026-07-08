@@ -1659,11 +1659,23 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-07-08 20:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2026-07-08 19:38:38 +0000"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "engineering": "2026-07-08 20:09:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
