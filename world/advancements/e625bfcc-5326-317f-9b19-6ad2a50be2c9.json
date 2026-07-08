@@ -1627,6 +1627,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2026-07-08 19:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/assembler": {
+    "criteria": {
+      "got_assembler": "2026-07-08 19:03:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:manual/resonanz": {
     "criteria": {
       "has_item": "2026-07-08 18:51:38 +0000"
