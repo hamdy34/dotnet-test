@@ -2148,5 +2148,17 @@
     },
     "done": true
   },
+  "minecraft:oritech/laser": {
+    "criteria": {
+      "got_laser": "2026-07-08 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/fluxite": {
+    "criteria": {
+      "got_fluxite": "2026-07-08 19:08:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

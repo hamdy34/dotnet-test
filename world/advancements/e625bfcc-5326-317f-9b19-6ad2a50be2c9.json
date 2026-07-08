@@ -1633,6 +1633,12 @@
     },
     "done": true
   },
+  "minecraft:oritech/fluxite": {
+    "criteria": {
+      "got_fluxite": "2026-07-08 19:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:oritech/assembler": {
     "criteria": {
       "got_assembler": "2026-07-08 19:03:26 +0000"
@@ -1642,6 +1648,12 @@
   "immersiveengineering:manual/resonanz": {
     "criteria": {
       "has_item": "2026-07-08 18:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/laser": {
+    "criteria": {
+      "got_laser": "2026-07-08 19:18:26 +0000"
     },
     "done": true
   },
