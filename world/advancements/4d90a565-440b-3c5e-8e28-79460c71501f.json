@@ -113,7 +113,8 @@
       "minecraft:ocean": "2026-06-21 18:11:15 +0000",
       "minecraft:deep_ocean": "2026-06-21 20:11:22 +0000",
       "minecraft:lukewarm_ocean": "2026-06-21 18:10:05 +0000",
-      "minecraft:warm_ocean": "2026-07-01 17:45:59 +0000"
+      "minecraft:warm_ocean": "2026-07-01 17:45:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-07-07 18:31:55 +0000"
     },
     "done": false
   },
@@ -907,6 +908,7 @@
       "minecraft:phantom": "2026-06-21 22:06:49 +0000",
       "minecraft:zombified_piglin": "2026-06-23 12:01:21 +0000",
       "minecraft:wither_skeleton": "2026-06-23 12:11:10 +0000",
+      "minecraft:bogged": "2026-07-07 17:58:20 +0000",
       "minecraft:hoglin": "2026-06-23 11:41:03 +0000",
       "minecraft:piglin": "2026-06-23 11:40:45 +0000",
       "minecraft:silverfish": "2026-07-01 17:52:05 +0000",
@@ -2098,6 +2100,51 @@
   "immersiveengineering:main/craft_pump": {
     "criteria": {
       "has_item": "2026-07-06 02:16:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_arcfurnace": {
+    "criteria": {
+      "form_multiblock": "2026-07-07 19:42:30 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:basic_network_components/inventory_reading": {
+    "criteria": {
+      "criteria_0": "2026-07-07 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/netherite_trapdoor": {
+    "criteria": {
+      "has_item_minecraft_netherite_scrap_2": "2026-07-08 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/netherite_door": {
+    "criteria": {
+      "has_item_minecraft_netherite_scrap_2": "2026-07-08 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:repair_explorers_compass": {
+    "criteria": {
+      "has_explorers_compass": "2026-07-08 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2026-07-08 03:26:41 +0000",
+      "silicon": "2026-07-08 03:26:44 +0000",
+      "engineering": "2026-07-08 03:26:38 +0000",
+      "logic": "2026-07-08 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2026-07-08 03:23:05 +0000"
     },
     "done": true
   },
