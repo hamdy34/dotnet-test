@@ -2161,5 +2161,17 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2026-07-08 19:35:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:netherite_monstrosity": "2026-07-08 19:35:51 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }
