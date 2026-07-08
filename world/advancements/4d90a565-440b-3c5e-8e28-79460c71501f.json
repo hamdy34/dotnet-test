@@ -2161,6 +2161,12 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2026-07-08 20:04:12 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2026-07-08 19:35:51 +0000"
@@ -2172,6 +2178,12 @@
       "cataclysm:netherite_monstrosity": "2026-07-08 19:35:51 +0000"
     },
     "done": false
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2026-07-08 20:04:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
