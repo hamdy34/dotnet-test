@@ -1009,6 +1009,7 @@
       "minecraft:vex": "2026-06-23 08:31:27 +0000",
       "minecraft:zombie": "2026-07-01 13:45:45 +0000",
       "minecraft:creeper": "2026-07-07 20:30:45 +0000",
+      "minecraft:wither": "2026-07-08 20:18:51 +0000",
       "minecraft:evoker": "2026-06-23 08:29:49 +0000"
     },
     "done": false
@@ -1668,6 +1669,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2026-07-08 19:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-07-08 20:17:56 +0000"
     },
     "done": true
   },
