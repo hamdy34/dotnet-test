@@ -1627,15 +1627,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:machine_vandal": {
+  "immersiveengineering:manual/resonanz": {
     "criteria": {
-      "0": "2026-07-08 19:01:13 +0000"
+      "has_item": "2026-07-08 18:51:38 +0000"
     },
     "done": true
   },
-  "minecraft:oritech/fluxite": {
+  "pneumaticcraft:machine_vandal": {
     "criteria": {
-      "got_fluxite": "2026-07-08 19:09:03 +0000"
+      "0": "2026-07-08 19:01:13 +0000"
     },
     "done": true
   },
@@ -1645,9 +1645,9 @@
     },
     "done": true
   },
-  "immersiveengineering:manual/resonanz": {
+  "minecraft:oritech/fluxite": {
     "criteria": {
-      "has_item": "2026-07-08 18:51:38 +0000"
+      "got_fluxite": "2026-07-08 19:09:03 +0000"
     },
     "done": true
   },
